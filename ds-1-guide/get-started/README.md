@@ -30,9 +30,7 @@ See how DS-1 turns campaign goals into audience recommendations.
 
 See how DS-1 turns plain-language goals into campaign-ready audiences.
 
-{% content-ref url="product-overview/" %}
-[product-overview](product-overview/)
-{% endcontent-ref %}
+Open DS-1 Overview
 {% endstep %}
 
 {% step %}
