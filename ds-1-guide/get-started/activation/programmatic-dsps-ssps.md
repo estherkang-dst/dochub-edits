@@ -1,5 +1,8 @@
 ---
-description: Build an audience three ways, then send it straight to the platform where you buy.
+description: >-
+  Build an audience three ways, then send it straight to the platform where you
+  buy.
+icon: spinner-scale
 ---
 
 # Programmatic (DSPs / SSPs)
@@ -24,7 +27,7 @@ Not sure which path fits? Describe the campaign in chat and DS-1 will recommend 
 
 ### Step 1. Describe what you are after
 
-Name the brand, topic, or behavior in plain language. No perfect brief required. Here, *pickleball enthusiasts in manhattan* is enough for DS-1 to propose ten consumer search terms on the canvas.
+Name the brand, topic, or behavior in plain language. No perfect brief required. Here, _pickleball enthusiasts in manhattan_ is enough for DS-1 to propose ten consumer search terms on the canvas.
 
 Depending on the agent you pick, that starting point can be search terms, retail or product signals, a domain or URL list, or a prebuilt audience you have already shortlisted.
 
@@ -32,7 +35,7 @@ Depending on the agent you pick, that starting point can be search terms, retail
 
 Whatever you seed from, the pattern is the same: DS-1 proposes on the canvas, you edit, then build. The bar at the bottom tracks your selection, and **Build audience** is always the last click.
 
-You can also rename the audience at the top. The default follows a naming convention, like *Pickleball Enthusiasts Manhattan_SearchLAL* or *tennis_racquets_Retail Purchase Intent*. Type over it to match how your team labels segments in the seat.
+You can also rename the audience at the top. The default follows a naming convention, like _Pickleball Enthusiasts Manhattan\_SearchLAL_ or _tennis\_racquets\_Retail Purchase Intent_. Type over it to match how your team labels segments in the seat.
 
 #### Search terms
 
@@ -57,7 +60,7 @@ Name a product and DS-1 pulls matching product seeds with their brand and retail
 
 ### Step 3. Check the marketer to destination link
 
-The top bar reads as one sentence: **marketer** *to* **destination**. Confirm both before you build, since the segment lands in that specific seat and nowhere else. Change either from its dropdown.
+The top bar reads as one sentence: **marketer** _to_ **destination**. Confirm both before you build, since the segment lands in that specific seat and nowhere else. Change either from its dropdown.
 
 The destination dropdown lists every platform set up for the marketer you have selected, so switching marketers changes the destinations on offer.
 
@@ -93,7 +96,7 @@ DS-1 confirms the syndication in chat, naming the audience and the platform it w
 
 <figure><img src="../../../.gitbook/assets/activate-07-syndicated.png" alt="DS-1 confirming it syndicated the audience to The Trade Desk"><figcaption></figcaption></figure>
 
-The Recent Activity row updates to match: the **Building** badge becomes **Done**, and the subline now reads *Syndicated to The Trade Desk*. That row is your record of where each audience went.
+The Recent Activity row updates to match: the **Building** badge becomes **Done**, and the subline now reads _Syndicated to The Trade Desk_. That row is your record of where each audience went.
 
 <figure><img src="../../../.gitbook/assets/activate-08-done.png" alt="A Recent Activity row marked Done and syndicated to The Trade Desk"><figcaption></figcaption></figure>
 
