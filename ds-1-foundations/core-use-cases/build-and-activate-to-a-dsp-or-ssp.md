@@ -63,7 +63,7 @@ Activate directly to your DSP or SSP. There are no exports, handoffs, or manual 
 {% endcolumn %}
 
 {% column %}
-![DS-1 audience workflow](<../../.gitbook/assets/Screenshot 2026-07-17 at 9.01.24 AM (1).png>)
+![DS-1 audience workflow](<../../.gitbook/assets/Screenshot 2026-07-17 at 9.01.24 AM.png>)
 {% endcolumn %}
 {% endcolumns %}
 
