@@ -1,5 +1,7 @@
 ---
-description: Hand DS-1 a brief or describe your objectives in plain language, get product recommendations matched to those goals, and refine until the plan is right.
+description: >-
+  Hand DS-1 a brief or describe your objectives in plain language, get product
+  recommendations matched to those goals, and refine until the plan is right.
 ---
 
 # Build or refine an audience brief
@@ -57,7 +59,7 @@ Nothing on the canvas is fixed. The brief is a draft you shape before anything g
 
 #### Or just ask
 
-Chat edits the canvas too, and it is faster for anything structural. Ask DS-1 to *show me art goers search terms on the canvas and replace the ultra-VIC lifestyle category with this*, and it swaps the group, generates the new terms, and confirms what changed while leaving everything else untouched.
+Chat edits the canvas too, and it is faster for anything structural. Ask DS-1 to _show me art goers search terms on the canvas and replace the ultra-VIC lifestyle category with this_, and it swaps the group, generates the new terms, and confirms what changed while leaving everything else untouched.
 
 <figure><img src="../../.gitbook/assets/brief-04-refine-chat-v2.png" alt="DS-1 replacing one search term group with another on the canvas after a chat request"><figcaption></figcaption></figure>
 
@@ -74,5 +76,5 @@ When the brief looks right, say **build them all** and DS-1 builds every recomme
 Builds land on the home page under **Recent Activity**. Syndicate from there; see [Build and activate to a DSP or SSP](../../ds-1-foundations/core-use-cases/build-and-activate-to-a-dsp-or-ssp.md) for reach sizes and destinations.
 
 {% hint style="info" %}
-Working inside a project? The brief agent reads the project's attached files and instructions, so you do not have to re-upload the brief each session. See [Work in projects](../get-started/ds-1-overview/projects.md).
+Working inside a project? The brief agent reads the project's attached files and instructions, so you do not have to re-upload the brief each session. See [Work in projects](../get-started/product-overview/projects.md).
 {% endhint %}

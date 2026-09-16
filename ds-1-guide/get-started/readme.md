@@ -15,7 +15,7 @@ This site is your guide to getting the most out of DS-1.
 
 ### Find your way
 
-* **Want the big picture?** Start with [DS-1 overview](ds-1-overview/) to learn how DS-1 works.
+* **Want the big picture?** Start with [DS-1 overview](/broken/pages/H8vYfoFCZRTaR6EDplhv) to learn how DS-1 works.
 * **New to DS-1?** Start with [Quick start](create-your-first-audience.md) to log in for the first time.
 * **Ready to build?** Continue to [Build or refine an audience brief](../agents/build-or-refine-an-audience-brief.md) for a step-by-step walkthrough.
 * **Going deeper?** Head to [Agents](../agents/) for specific capabilities.

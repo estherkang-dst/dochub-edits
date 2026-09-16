@@ -21,8 +21,8 @@
 
 * [Get started](ds-1-guide/get-started/README.md)
   * [Welcome](ds-1-guide/get-started/readme.md)
-  * [DS-1 overview](ds-1-guide/get-started/ds-1-overview/README.md)
-    * [Projects](ds-1-guide/get-started/ds-1-overview/projects.md)
+  * [DS-1 Overview](ds-1-guide/get-started/product-overview/README.md)
+    * [Projects](ds-1-guide/get-started/product-overview/projects.md)
   * [Quick start](ds-1-guide/get-started/create-your-first-audience.md)
   * [Activation](ds-1-guide/get-started/activation/README.md)
     * [Programmatic (DSPs / SSPs)](ds-1-guide/get-started/activation/programmatic-dsps-ssps.md)
