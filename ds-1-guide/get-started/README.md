@@ -1,7 +1,7 @@
 ---
 description: Start here to understand DS-1, plan your audience, and activate it.
 hidden: true
-icon: footsteps
+icon: traffic-light-go
 ---
 
 # Get started
