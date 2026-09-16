@@ -15,10 +15,10 @@ This site is your guide to getting the most out of DS-1.
 
 ### Find your way
 
-* **Want the big picture?** Start with [Product Overview](../../ds-1-foundations/product-overview.md) to learn how DS-1 works.
-* **New to DS-1?** Start with [Getting started](../../ds-1-foundations/getting-started.md) to log in for the first time.
-* **Ready to build?** Continue to [Create your first audience](../../ds-1-foundations/create-your-first-audience.md) for a step-by-step walkthrough.
-* **Going deeper?** Head to [Core Use Cases](../../ds-1-foundations/core-use-cases/) for specific capabilities.
+* **Want the big picture?** Start with [DS-1 overview](ds-1-overview/) to learn how DS-1 works.
+* **New to DS-1?** Start with [Quick start](create-your-first-audience.md) to log in for the first time.
+* **Ready to build?** Continue to [Build or refine an audience brief](../agents/build-or-refine-an-audience-brief.md) for a step-by-step walkthrough.
+* **Going deeper?** Head to [Agents](../agents/) for specific capabilities.
 
 ### Need help?
 
