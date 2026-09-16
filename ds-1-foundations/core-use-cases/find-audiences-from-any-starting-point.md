@@ -2,7 +2,7 @@
 description: >-
   Find relevant audiences using prebuilt segments, search terms, product
   signals, or domains.
-icon: magnifying-glass
+icon: magnifying-glass-location
 ---
 
 # Find audiences from any starting point

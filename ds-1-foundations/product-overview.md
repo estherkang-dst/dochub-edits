@@ -1,6 +1,6 @@
 ---
 description: Learn how DS-1 turns a campaign goal into an activated audience.
-icon: key
+icon: map
 ---
 
 # Product overview
@@ -70,4 +70,3 @@ So instead of asking "how do I build this audience," you get to ask the better q
 {% hint style="success" %}
 **Now that you know what DS-1 is**, the natural next step is seeing what an agentic advertising platform can do for you day-to-day. From audience planning and discovery to activation, it takes a lot off your plate. **Let's dig into the Getting started section in the next lesson.**
 {% endhint %}
-

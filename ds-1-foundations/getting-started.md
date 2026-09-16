@@ -1,6 +1,6 @@
 ---
 description: Log in to DS-1 for the first time.
-icon: right-to-bracket
+icon: rocket
 ---
 
 # Getting started

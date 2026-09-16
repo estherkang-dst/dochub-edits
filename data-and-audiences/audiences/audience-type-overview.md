@@ -3,7 +3,7 @@ description: >-
   Choose the right Dstillery audience for your data, goal, and activation
   timeline.
 hidden: true
-icon: user-group
+icon: route
 ---
 
 # Audience type overview

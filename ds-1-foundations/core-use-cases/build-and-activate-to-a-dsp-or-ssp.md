@@ -1,6 +1,6 @@
 ---
 description: Build a compound audience and activate it in your buying platform.
-icon: arrows-to-circle
+icon: paper-plane
 ---
 
 # Build and activate to a DSP or SSP

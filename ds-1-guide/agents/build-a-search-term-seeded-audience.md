@@ -1,5 +1,8 @@
 ---
-description: Seed an audience from the terms people search, then model the users behind that intent.
+description: >-
+  Seed an audience from the terms people search, then model the users behind
+  that intent.
+icon: magnifying-glass
 ---
 
 # Build a search LAL audience
@@ -53,7 +56,7 @@ Syndicate from that row, choose a reach size, and the audience goes to your seat
 
 ## Looking up an audience's terms
 
-Ask DS-1 by name, for example *what search terms went into Pickleball Enthusiasts Manhattan_SearchLAL*, and it returns the terms that audience was modeled from.
+Ask DS-1 by name, for example _what search terms went into Pickleball Enthusiasts Manhattan\_SearchLAL_, and it returns the terms that audience was modeled from.
 
 Useful when you are auditing a live segment or deciding what to change before syndicating.
 

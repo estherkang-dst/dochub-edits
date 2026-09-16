@@ -1,7 +1,8 @@
 ---
 description: >-
-  Keep client work siloed in its own workspace, with the files, audiences,
-  and history that belong to it.
+  Keep client work siloed in its own workspace, with the files, audiences, and
+  history that belong to it.
+icon: folder-tree
 ---
 
 # Projects
@@ -35,7 +36,7 @@ The Projects page splits into three tabs: **Your projects** for the ones you own
 
 The **New project** dialog asks for three things:
 
-* **Project name.** Name it for the work it holds: the client, the campaign, or the pitch. A clear name is what makes the project findable later, so prefer *SafeGuard Q3 Auto Campaign* over *new project*.
+* **Project name.** Name it for the work it holds: the client, the campaign, or the pitch. A clear name is what makes the project findable later, so prefer _SafeGuard Q3 Auto Campaign_ over _new project_.
 * **Description.** One line on what the project is for. Worth filling in when you're sharing with a team.
 * **Project knowledge.** Attach context up front with **Upload files** or pull straight from **Drive**. You can also add files later, so don't wait on this to create the project.
 
@@ -47,12 +48,12 @@ Click **Create project** and it opens, ready to work in.
 
 Whether you attached files at creation or not, you can keep building a project's knowledge as the work develops. The project panel holds four kinds of context, each with a **+** to add more:
 
-* **Instructions.** Standing direction on tone and perspective, so you don't restate it every session. For example *use a more formal tone* or *respond as the marketing team for Brand X*.
+* **Instructions.** Standing direction on tone and perspective, so you don't restate it every session. For example _use a more formal tone_ or _respond as the marketing team for Brand X_.
 * **Files.** Briefs and RFPs for DS-1 to analyze and turn into an audience strategy.
 * **Audiences.** Your own segment lists or audience taxonomy, so recommendations can point at what you already license.
 * **Existing insights.** Insights you've already run in DS-1, attached as project knowledge rather than rebuilt.
 
-<figure><img src="../../../.gitbook/assets/projects-03-panel.png" alt="A project's panel showing Instructions, Files, Audiences, and Add existing insights"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/projects-03-panel.png" alt="A project&#x27;s panel showing Instructions, Files, Audiences, and Add existing insights"><figcaption></figcaption></figure>
 
 Anything in the panel is available to every agent you run in the project. The project chip sits in the composer, so DS-1 reads the file rather than asking you to retype the campaign each session. Ask for a rundown and you get the brief's goal, objectives, target audiences, geography, budget, and media mix back as a summary you can work from.
 

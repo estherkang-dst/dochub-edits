@@ -1,5 +1,8 @@
 ---
-description: Seed an audience from the products people are actively shopping, then reach them before they convert.
+description: >-
+  Seed an audience from the products people are actively shopping, then reach
+  them before they convert.
+icon: cart-arrow-down
 ---
 
 # Build a purchase intent audience
@@ -46,7 +49,7 @@ DS-1 scans panel data for up to 200 candidate seeds per category, then Gen AI an
 
 ### Step 3. Build and track it
 
-Rename the audience if your team uses its own convention, then build. The default follows a naming convention like *tennis_racquets_Retail Purchase Intent*.
+Rename the audience if your team uses its own convention, then build. The default follows a naming convention like _tennis\_racquets\_Retail Purchase Intent_.
 
 Builds land on the home page under **Recent Activity**.
 
@@ -56,7 +59,7 @@ Syndicate from that row, choose a reach size, and the audience goes to your seat
 
 ## Looking up an audience's products
 
-Ask DS-1 by name, for example *what products went into tennis_racquets_Retail Purchase Intent*, and it returns the product seeds that audience was modeled from.
+Ask DS-1 by name, for example _what products went into tennis\_racquets\_Retail Purchase Intent_, and it returns the product seeds that audience was modeled from.
 
 Useful when you are auditing a live segment or deciding what to change before syndicating.
 

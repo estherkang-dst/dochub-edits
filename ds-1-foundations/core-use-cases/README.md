@@ -1,5 +1,5 @@
 ---
-icon: cubes
+icon: puzzle-piece
 ---
 
 # Core use cases

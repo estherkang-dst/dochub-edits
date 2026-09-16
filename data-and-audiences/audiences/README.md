@@ -1,7 +1,7 @@
 ---
 description: Choose, build, and activate Dstillery audiences.
 hidden: true
-icon: user-group
+icon: people-group
 ---
 
 # Audiences

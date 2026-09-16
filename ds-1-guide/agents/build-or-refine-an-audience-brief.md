@@ -2,6 +2,7 @@
 description: >-
   Hand DS-1 a brief or describe your objectives in plain language, get product
   recommendations matched to those goals, and refine until the plan is right.
+icon: file-signature
 ---
 
 # Build or refine an audience brief

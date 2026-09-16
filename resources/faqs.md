@@ -1,7 +1,7 @@
 ---
 description: Quick answers to common DS-1 questions.
 hidden: true
-icon: comments
+icon: messages
 ---
 
 # FAQs

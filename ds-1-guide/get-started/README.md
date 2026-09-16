@@ -1,6 +1,6 @@
 ---
 hidden: true
-icon: right-to-bracket
+icon: footsteps
 ---
 
 # Get started

@@ -2,7 +2,7 @@
 description: >-
   Build a predictive audience from your first-party customer and conversion
   signals.
-icon: brain
+icon: microchip
 ---
 
 # Custom AI audiences

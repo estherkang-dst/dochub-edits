@@ -1,6 +1,6 @@
 ---
 description: See how consented panel data and website signals become targetable audiences.
-icon: arrows-to-circle
+icon: link
 ---
 
 # Dstillery data & DS-1: how they fit together

@@ -1,6 +1,6 @@
 ---
 description: Build a predictive audience from the signals that define your target.
-icon: cubes
+icon: shapes
 ---
 
 # Custom built audiences

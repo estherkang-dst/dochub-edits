@@ -1,6 +1,6 @@
 ---
 description: Build, refine, and syndicate your first audience in DS-1.
-icon: clipboard-list
+icon: list-check
 ---
 
 # Quick start

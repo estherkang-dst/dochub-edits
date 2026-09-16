@@ -1,5 +1,8 @@
 ---
-description: Seed an audience from the sites your customers already visit, then model from their shared visitors.
+description: >-
+  Seed an audience from the sites your customers already visit, then model from
+  their shared visitors.
+icon: globe
 ---
 
 # Build a domain seeded audience
@@ -8,7 +11,7 @@ description: Seed an audience from the sites your customers already visit, then 
 
 Domain seeding starts from behavior rather than language. You name sites your customers already visit, and DS-1 models the people who visit them, then finds more people who look like that.
 
-It is the right choice when the behavior is clearer than the vocabulary. Category enthusiasts often cluster on a handful of specialist sites without searching in any consistent way, and a competitor's or publisher's audience is easier to point at than to describe. When the campaign is better defined by *where people go* than by *what they type*, seed from domains.
+It is the right choice when the behavior is clearer than the vocabulary. Category enthusiasts often cluster on a handful of specialist sites without searching in any consistent way, and a competitor's or publisher's audience is easier to point at than to describe. When the campaign is better defined by _where people go_ than by _what they type_, seed from domains.
 
 ## Walk through a build
 
@@ -63,7 +66,7 @@ Syndicate from that row, choose a reach size, and the audience goes to your seat
 
 ## Looking up an audience's seeds
 
-Ask DS-1 by name, for example *what seeds went into Socially Conscious Adventurers_IDB Custom URL*, and it returns the domains that audience was modeled from.
+Ask DS-1 by name, for example _what seeds went into Socially Conscious Adventurers\_IDB Custom URL_, and it returns the domains that audience was modeled from.
 
 <figure><img src="../../.gitbook/assets/domain-05-seed-lookup.png" alt="DS-1 listing the seed domains behind a named audience"><figcaption></figcaption></figure>
 

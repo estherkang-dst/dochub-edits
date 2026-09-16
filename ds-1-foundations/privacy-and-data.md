@@ -1,6 +1,6 @@
 ---
 description: How DS-1 handles your data, keeps it secure, and protects user privacy.
-icon: lock
+icon: shield-halved
 ---
 
 # Privacy and data

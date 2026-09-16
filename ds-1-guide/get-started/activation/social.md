@@ -1,7 +1,8 @@
 ---
 hidden: true
-icon: people-arrows
+icon: share-nodes
 ---
 
 # Social
 
+***

@@ -1,7 +1,7 @@
 ---
 description: Your reference guide to common DS-1 terms.
 hidden: true
-icon: book-open
+icon: language
 ---
 
 # Glossary

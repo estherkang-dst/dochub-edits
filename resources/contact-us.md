@@ -1,7 +1,7 @@
 ---
 description: Contact Dstillery for support, partnership questions, or campaign help.
 hidden: true
-icon: envelope
+icon: phone
 ---
 
 # Contact us

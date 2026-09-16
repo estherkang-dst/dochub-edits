@@ -1,6 +1,6 @@
 ---
 description: Activate your audience through programmatic or social channels.
-icon: chart-line
+icon: arrow-up-right-from-square
 ---
 
 # Activation

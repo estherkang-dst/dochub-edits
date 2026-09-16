@@ -1,6 +1,6 @@
 ---
 description: Identify audiences likely to perform against a topic, brand, or URL.
-icon: chart-line
+icon: chart-column
 ---
 
 # Analyze predictive lift scores

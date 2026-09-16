@@ -2,7 +2,7 @@
 description: >-
   Build an audience three ways, then send it straight to the platform where you
   buy.
-icon: spinner-scale
+icon: diagram-project
 ---
 
 # Programmatic (DSPs / SSPs)

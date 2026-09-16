@@ -1,6 +1,6 @@
 ---
 description: Everything you need to find, build, and activate audiences with DS-1
-icon: users
+icon: hand-wave
 ---
 
 # Welcome to DS-1 docs

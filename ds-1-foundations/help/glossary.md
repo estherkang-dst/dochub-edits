@@ -1,6 +1,6 @@
 ---
 description: Your reference guide to common DS-1 terms.
-icon: book-open
+icon: spell-check
 ---
 
 # Glossary

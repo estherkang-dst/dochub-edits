@@ -1,7 +1,7 @@
 ---
 description: Learn how DS-1 handles data, security, retention, and sensitive targeting.
 hidden: true
-icon: lock
+icon: user-shield
 ---
 
 # Privacy and data
