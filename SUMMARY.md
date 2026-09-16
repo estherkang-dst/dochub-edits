@@ -34,7 +34,7 @@
   * [Find prebuilt audiences](ds-1-guide/agents/find-prebuilt-audiences.md)
   * [Build or refine an audience brief](ds-1-guide/agents/build-or-refine-an-audience-brief.md)
   * [Build a domain seeded audience](ds-1-guide/agents/build-a-domain-seeded-audience.md)
-  * [Build a search term seeded audience](ds-1-guide/agents/build-a-search-term-seeded-audience.md)
+  * [Build a search LAL audience](ds-1-guide/agents/build-a-search-term-seeded-audience.md)
   * [Build a purchase intent audience](ds-1-guide/agents/build-a-purchase-intent-audience.md)
   * [Analyze predictive lift scores](ds-1-guide/agents/analyze-predictive-lift-scores.md)
   * [Create a pixel](ds-1-guide/agents/create-a-pixel.md)
