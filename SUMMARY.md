@@ -20,7 +20,6 @@
 ## DS-1 Guide
 
 * [Get started](ds-1-guide/get-started/README.md)
-  * [Welcome](ds-1-guide/get-started/readme.md)
   * [DS-1 Overview](ds-1-guide/get-started/product-overview/README.md)
     * [Projects](ds-1-guide/get-started/product-overview/projects.md)
   * [Activation](ds-1-guide/get-started/activation/README.md)

@@ -8,7 +8,11 @@ icon: footsteps
 
 ### Turn a campaign goal into a live audience
 
-DS-1 helps you find, build, and activate audiences through one guided flow. Start with the essentials, then choose the path that fits your campaign.
+DS-1 is Dstillery's agentic advertising platform. Describe your campaign goal in plain language to find, build, and activate the right audience.
+
+Start with the essentials, then choose the path that fits your campaign.
+
+{% embed url="https://www.youtube.com/watch?v=A6QN259qBKg&feature=youtu.be" %}
 
 {% hint style="success" %}
 **New to DS-1?** Follow the four steps below in order. Most teams can move from a campaign idea to an activation-ready audience in one working session.
@@ -18,11 +22,7 @@ DS-1 helps you find, build, and activate audiences through one guided flow. Star
 {% step %}
 ### Learn the platform
 
-Start with a short introduction to DS-1 and its core workflow.
-
-{% content-ref url="./" %}
-[.](./)
-{% endcontent-ref %}
+See how DS-1 turns campaign goals into audience recommendations.
 {% endstep %}
 
 {% step %}
@@ -92,4 +92,6 @@ Use projects to keep each client's assets, audiences, and activity separate.
 [projects.md](product-overview/projects.md)
 {% endcontent-ref %}
 
-\*\*\*
+{% hint style="info" %}
+Need help? Reach out to your Dstillery team.
+{% endhint %}
