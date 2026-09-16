@@ -26,7 +26,7 @@
   * [Activation](ds-1-guide/get-started/activation/README.md)
     * [Programmatic (DSPs / SSPs)](ds-1-guide/get-started/activation/programmatic-dsps-ssps.md)
     * [Social](ds-1-guide/get-started/activation/social.md)
-  * [Quickstart](ds-1-guide/get-started/quickstart.md)
+  * [Quick start](ds-1-guide/get-started/getting-started.md)
 * [Agents](ds-1-guide/agents/README.md)
   * [Find prebuilt audiences](ds-1-guide/agents/find-prebuilt-audiences.md)
   * [Build or refine an audience brief](ds-1-guide/agents/build-or-refine-an-audience-brief.md)
