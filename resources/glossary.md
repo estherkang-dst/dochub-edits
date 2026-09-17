@@ -8,17 +8,21 @@ icon: language
 
 Use this reference to understand common DS-1 terms and capabilities.
 
+### 24-Hour Scoring
+
+Dstillery refreshes and rescores the entire device graph daily. Audience segments reflect the most recent behavior available.
+
 ### Activation
 
 Sending an audience to a DSP, SSP, or social platform for campaign delivery.
 
 ### Agent
 
-A specialized workflow for a specific audience task. Agents are faster than open-ended chat for defined requests. Access them from the home screen or the **Agents** page.
+A specialized workflow for a specific audience task. Agents streamline defined requests. Access them from the home screen or the **Agents** page.
 
 ### Audience Seed
 
-The data or signals used to train an audience model.
+The data or signals used to train an audience model, such as CRM lists or conversion pixels.
 
 ### Consented Panel Data
 
@@ -35,6 +39,14 @@ An audience built from proxy signals, such as domains, keywords, or retail produ
 ### First-Party Data
 
 Data collected directly from customer interactions, such as CRM lists, site visits, or conversions.
+
+### ID-Based
+
+Targeting tied to a specific device or user identifier. It allows audiences to be activated and measured at the individual level.
+
+### ID-Free
+
+Targeting built from anonymous, aggregated behavioral signals rather than device or user identifiers. It performs without cookies or IDs while meeting the same performance benchmarks as ID-based tactics.
 
 ### Lookalike Audience
 
@@ -54,11 +66,11 @@ A workspace for related conversations, files, and context. Projects keep history
 
 ### Proxy Signals
 
-Behavioral inputs that represent the people a campaign aims to reach.
+Behavioral inputs that represent the people a campaign aims to reach, such as content consumption or URL visits.
 
 ### Segrank
 
-A predictive lift score that measures expected audience performance against random targeting. DS-1 uses these scores to surface high-performing audience categories.
+A predictive lift score that measures expected audience performance against random targeting. Higher scores indicate stronger predicted performance. DS-1 uses these scores to surface high-performing audience categories.
 
 ### Workflow
 
