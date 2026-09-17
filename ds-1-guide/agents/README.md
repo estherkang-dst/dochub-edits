@@ -37,6 +37,6 @@ Use these when you know the signal you want to model against.
 
 Three pages sit outside the agent list but touch every one of them.
 
-* [Explore audience insights](insights.md) profiles a topic, brand, domain, or your own pixel data, so you know who you are targeting before you build.
+* [Explore audience insights](../insights.md) profiles a topic, brand, domain, or your own pixel data, so you know who you are targeting before you build.
 * [Work in projects](../projects.md) keeps a campaign's files, audiences, and agent runs in one shared place.
 * [Build and activate to a DSP or SSP](../get-started/activation/programmatic-dsps-ssps.md) is where most agents end: picking reach sizes and sending audiences to a destination.

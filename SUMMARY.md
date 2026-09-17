@@ -37,7 +37,7 @@
   * [Partnership Audience Search](ds-1-guide/agents/partnership-audience-search.md)
   * [LiveRamp Data Marketplace](ds-1-guide/agents/liveramp-data-marketplace.md)
   * [Campaign Optimization (Coming Soon)](ds-1-guide/agents/campaign-optimization-coming-soon.md)
-  * [Insights](ds-1-guide/agents/insights.md)
+* [Insights](ds-1-guide/insights.md)
 * [Projects](ds-1-guide/projects.md)
 
 ## Data & Audiences
