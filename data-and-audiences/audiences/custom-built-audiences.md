@@ -11,6 +11,12 @@ Custom Built Audiences are for brands that want a custom audience without sharin
 
 Dstillery's multimodal AI builds a predictive model from those signals. It finds people most likely to engage with your brand across the programmatic landscape. Custom Built Audiences include specialized builds like Custom Search Lookalikes and Retail Purchase Intent Audiences, each optimized for a specific seed type.
 
+Use the DS-1 agent that matches your seed:
+
+* [build-a-domain-seeded-audience.md](../../ds-1-guide/agents/build-a-domain-seeded-audience.md "mention") for websites and domains.
+* [build-a-search-term-seeded-audience.md](../../ds-1-guide/agents/build-a-search-term-seeded-audience.md "mention") for search terms.
+* [build-a-purchase-intent-audience.md](../../ds-1-guide/agents/build-a-purchase-intent-audience.md "mention") for retail products.
+
 ### Why it's different
 
 {% columns %}
