@@ -21,10 +21,11 @@
 
 * [Get started](ds-1-guide/get-started/README.md)
   * [DS-1 Overview](ds-1-guide/get-started/product-overview.md)
+  * [Quick start](ds-1-guide/get-started/create-your-first-audience.md)
+  * [Logging in to DS-1](ds-1-guide/get-started/getting-started.md)
   * [Activation](ds-1-guide/get-started/activation/README.md)
     * [Programmatic (DSPs / SSPs)](ds-1-guide/get-started/activation/programmatic-dsps-ssps.md)
     * [Social](ds-1-guide/get-started/activation/social.md)
-  * [Quick start](ds-1-guide/get-started/create-your-first-audience.md)
 * [Agents](ds-1-guide/agents/README.md)
   * [Find prebuilt audiences](ds-1-guide/agents/find-prebuilt-audiences.md)
   * [Build or refine an audience brief](ds-1-guide/agents/build-or-refine-an-audience-brief.md)
