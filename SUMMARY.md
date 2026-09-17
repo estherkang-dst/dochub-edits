@@ -1,25 +1,8 @@
 # Table of contents
 
-## DS-1 Foundations
-
-* [Welcome to DS-1 docs](README.md)
-* [Product overview](ds-1-foundations/product-overview.md)
-* [Getting started](ds-1-foundations/getting-started.md)
-* [Create your first audience](ds-1-foundations/create-your-first-audience.md)
-* [Core use cases](ds-1-foundations/core-use-cases/README.md)
-  * [Find audiences from any starting point](ds-1-foundations/core-use-cases/find-audiences-from-any-starting-point.md)
-  * [Build and activate to a DSP or SSP](ds-1-foundations/core-use-cases/build-and-activate-to-a-dsp-or-ssp.md)
-  * [Analyze predictive lift scores](ds-1-foundations/core-use-cases/analyze-predictive-lift-scores.md)
-  * [Create and seed custom AI segments](ds-1-foundations/core-use-cases/create-and-seed-custom-ai-segments.md)
-* [Privacy and data](ds-1-foundations/privacy-and-data.md)
-* [Help](ds-1-foundations/help/README.md)
-  * [Glossary](ds-1-foundations/help/glossary.md)
-  * [Frequently asked questions (FAQs)](ds-1-foundations/help/frequently-asked-questions-faqs.md)
-  * [Contact us](ds-1-foundations/help/contact-us.md)
-
 ## DS-1
 
-* [Get started](ds-1/get-started/README.md)
+* [Get started](README.md)
   * [DS-1 overview](ds-1/get-started/product-overview.md)
   * [Creating an account](ds-1/get-started/getting-started.md)
   * [Quick start](ds-1/get-started/create-your-first-audience.md)
@@ -63,3 +46,20 @@
   * [Glossary](resources/glossary.md)
   * [Privacy and data](resources/privacy-and-data.md)
   * [Contact us](resources/contact-us.md)
+
+## DS-1 Foundations
+
+* [Welcome to DS-1 docs](<README (1).md>)
+* [Product overview](ds-1-foundations/product-overview.md)
+* [Getting started](ds-1-foundations/getting-started.md)
+* [Create your first audience](ds-1-foundations/create-your-first-audience.md)
+* [Core use cases](ds-1-foundations/core-use-cases/README.md)
+  * [Find audiences from any starting point](ds-1-foundations/core-use-cases/find-audiences-from-any-starting-point.md)
+  * [Build and activate to a DSP or SSP](ds-1-foundations/core-use-cases/build-and-activate-to-a-dsp-or-ssp.md)
+  * [Analyze predictive lift scores](ds-1-foundations/core-use-cases/analyze-predictive-lift-scores.md)
+  * [Create and seed custom AI segments](ds-1-foundations/core-use-cases/create-and-seed-custom-ai-segments.md)
+* [Privacy and data](ds-1-foundations/privacy-and-data.md)
+* [Help](ds-1-foundations/help/README.md)
+  * [Glossary](ds-1-foundations/help/glossary.md)
+  * [Frequently asked questions (FAQs)](ds-1-foundations/help/frequently-asked-questions-faqs.md)
+  * [Contact us](ds-1-foundations/help/contact-us.md)

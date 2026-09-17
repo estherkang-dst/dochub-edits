@@ -1,27 +1,94 @@
 ---
-description: Everything you need to find, build, and activate audiences with DS-1
-icon: hand-wave
+description: Start here to understand DS-1, plan your audience, and activate it.
+icon: traffic-light-go
 ---
 
-# Welcome to DS-1 docs
+# Get started
 
-### Find, build, and activate audiences
-
-{% embed url="https://www.youtube.com/watch?v=A6QN259qBKg&feature=youtu.be" %}
+### Turn a campaign goal into a live audience
 
 DS-1 is Dstillery's agentic advertising platform. Describe your campaign goal in plain language to find, build, and activate the right audience.
 
-This site is your guide to getting the most out of DS-1.
+Start with the essentials, then choose the path that fits your campaign.
 
-### Find your way
+{% embed url="https://www.youtube.com/watch?v=A6QN259qBKg&feature=youtu.be" %}
 
-* **Want the big picture?** Start with [Product Overview](ds-1-foundations/product-overview.md) to learn how DS-1 works.
-* **New to DS-1?** Start with [Getting started](ds-1-foundations/getting-started.md) to log in for the first time.
-* **Ready to build?** Continue to [Create your first audience](ds-1-foundations/create-your-first-audience.md) for a step-by-step walkthrough.
-* **Going deeper?** Head to [Core Use Cases](ds-1-foundations/core-use-cases/) for specific capabilities.
+{% hint style="success" %}
+**New to DS-1?** Follow the four steps below in order. Most teams can move from a campaign idea to an activation-ready audience in one working session.
+{% endhint %}
 
-### Need help?
+{% stepper %}
+{% step %}
+### Learn the platform
+
+See how DS-1 turns campaign goals into audience recommendations.
+{% endstep %}
+
+{% step %}
+### Understand the workflow
+
+See how DS-1 turns plain-language goals into campaign-ready audiences.
+
+Open DS-1 Overview
+{% endstep %}
+
+{% step %}
+### Build your first audience
+
+Use the guided quick start when you are ready to create an audience.
+
+{% content-ref url="ds-1/get-started/create-your-first-audience.md" %}
+[create-your-first-audience.md](ds-1/get-started/create-your-first-audience.md)
+{% endcontent-ref %}
+{% endstep %}
+
+{% step %}
+### Activate it
+
+Choose programmatic or social activation after you have an audience.
+
+{% content-ref url="ds-1/get-started/activation/" %}
+[activation](ds-1/get-started/activation/)
+{% endcontent-ref %}
+{% endstep %}
+{% endstepper %}
+
+### Choose your starting point
+
+{% tabs %}
+{% tab title="I have a campaign brief" %}
+Turn your goal into a recommendation, then refine it with an agent.
+
+{% content-ref url="ds-1/agents/build-or-refine-an-audience-brief.md" %}
+[build-or-refine-an-audience-brief.md](ds-1/agents/build-or-refine-an-audience-brief.md)
+{% endcontent-ref %}
+{% endtab %}
+
+{% tab title="I know my seed signal" %}
+Build from domains, search terms, products, or customer data.
+
+{% content-ref url="ds-1/agents/" %}
+[agents](ds-1/agents/)
+{% endcontent-ref %}
+{% endtab %}
+
+{% tab title="I need an audience now" %}
+Find a ready-to-activate option for your campaign.
+
+{% content-ref url="ds-1/agents/find-prebuilt-audiences.md" %}
+[find-prebuilt-audiences.md](ds-1/agents/find-prebuilt-audiences.md)
+{% endcontent-ref %}
+{% endtab %}
+{% endtabs %}
+
+### Set up your workspace
+
+Use projects to keep each client's assets, audiences, and activity separate.
+
+{% content-ref url="ds-1/projects.md" %}
+[projects.md](ds-1/projects.md)
+{% endcontent-ref %}
 
 {% hint style="info" %}
-Have a question not answered here? Reach out to your Dstillery team.
+Need help? Reach out to your Dstillery team.
 {% endhint %}
