@@ -7,7 +7,7 @@ icon: shapes
 
 ### What it is
 
-Custom Built Audiences are for brands that want a custom audience without sharing first-party data. Instead of starting from a CRM list or pixel, a seed set uses websites, keywords, products, or a combination of Pre-built Audiences that reflects your target customer.
+Custom Built Audiences are for brands that want a custom audience without sharing first-party data. Instead of starting from a CRM list or pixel, a seed set uses websites, keywords, products, or a combination of Pre-built Audiences.
 
 Dstillery's multimodal AI builds a predictive model from those signals. It finds people most likely to engage with your brand across the programmatic landscape. Custom Built Audiences include specialized builds like Custom Search Lookalikes and Retail Purchase Intent Audiences, each optimized for a specific seed type.
 
