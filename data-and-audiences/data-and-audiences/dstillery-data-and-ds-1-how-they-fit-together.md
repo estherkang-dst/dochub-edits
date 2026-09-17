@@ -59,6 +59,6 @@ The audience is ready for DSP activation. It refreshes every 24 hours.
 
 ### Where DS-1 comes in
 
-Add AI-driven insights that connect the dots across data types, plus partner data, and you get the full multimodal model. Learn how they connect in [how-our-multimodal-ai-works.md](how-our-multimodal-ai-works.md "mention").
+DS-1 turns this intelligence into an audience on demand, starting from an objective, a seed, or an existing audience. Build it yourself in DS-1, self-serve, or bring your goal to your Dstillery team and they'll build it for you using the same platform.
 
-DS-1 turns this intelligence into an audience on demand. Start with an objective, a seed, or an existing audience. Whether you build it yourself in DS-1 or your Dstillery team builds it for you, this is the process running underneath. Then choose the right option in [Broken link](/broken/pages/B8SzmJyY8fWPSJR8CGyz "mention").
+Either way, it's the same model and the same process running underneath. DS-1 just decides who's driving.
