@@ -84,7 +84,7 @@ Website visitation data identifies devices showing similar behavior.
 {% endstep %}
 
 {% step %}
-Audiences refresh every 24 hours and are ready for delivery.
+Each device is rescored against the model every 24 hours.
 {% endstep %}
 {% endstepper %}
 
