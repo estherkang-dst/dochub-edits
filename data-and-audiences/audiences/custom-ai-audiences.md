@@ -69,7 +69,7 @@ One model powers every activation method, from user segments to custom bidding a
 
 ### Good fit if you
 
-* Have first-party data to work with. Set up site visitors, conversion pixels, and campaign logs in DS-1. Use Client Services for CRM lists.
+* Have first-party data to work with. Set up site visitors, conversion pixels, and campaign logs in DS-1 or via managed service. Use Client Services for CRM lists.
 * Are running prospecting campaigns and want to scale beyond retargeting.
 * Want your custom audience built from real behavioral patterns, not a generic lookalike.
 
