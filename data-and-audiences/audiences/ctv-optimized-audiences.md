@@ -1,6 +1,5 @@
 ---
 description: Reach CTV viewers most likely to matter to your campaign.
-icon: tv
 ---
 
 # CTV-optimized audiences

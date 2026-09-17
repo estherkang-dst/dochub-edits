@@ -1,6 +1,5 @@
 ---
 description: We are here to help.
-icon: headset
 ---
 
 # Contact us

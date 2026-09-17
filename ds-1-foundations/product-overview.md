@@ -1,6 +1,5 @@
 ---
 description: Learn how DS-1 turns a campaign goal into an activated audience.
-icon: map
 ---
 
 # Product overview

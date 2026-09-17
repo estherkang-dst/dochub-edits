@@ -1,6 +1,5 @@
 ---
 description: Compare audience pricing and choose the right option for each campaign.
-icon: tags
 ---
 
 # Pricing

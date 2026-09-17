@@ -1,6 +1,7 @@
 ---
-description: Search LiveRamp's marketplace of third-party segments across many providers, then pick and distribute.
-icon: store
+description: >-
+  Search LiveRamp's marketplace of third-party segments across many providers,
+  then pick and distribute.
 ---
 
 # LiveRamp Data Marketplace
@@ -13,12 +14,12 @@ Search LiveRamp's data marketplace from inside DS-1. Describe what you are after
 
 Both search third-party data, but they are built and priced differently.
 
-| | LiveRamp marketplace | [Dstillery partner audiences](partnership-audience-search.md) |
-|---|---|---|
+|                            | LiveRamp marketplace                                                                                              | [Dstillery partner audiences](partnership-audience-search.md)                                                                                            |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **How segments are built** | Single signals, static demographic lists, or declared survey data; matched on basic overlap or single-site visits | Sector-specific partner data layered into the multimodal AI engine and synthesized with browsing, search intent, and CTV viewership across 400M+ devices |
-| **Refresh** | Built once, refreshed weekly or monthly at best | Rescored every 24 hours across 400M+ devices |
-| **Activation** | Traditional syndication pipelines, which can add processing delay | User segments, curated PMP deals across 7 SSPs, custom bidding, predictive contextual, and social via LiveRamp |
-| **Pricing** | Varies by data provider | 30% of media, capped at $2.50, or a $1.40 CPM |
+| **Refresh**                | Built once, refreshed weekly or monthly at best                                                                   | Rescored every 24 hours across 400M+ devices                                                                                                             |
+| **Activation**             | Traditional syndication pipelines, which can add processing delay                                                 | User segments, curated PMP deals across 7 SSPs, custom bidding, predictive contextual, and social via LiveRamp                                           |
+| **Pricing**                | Varies by data provider                                                                                           | 30% of media, capped at $2.50, or a $1.40 CPM                                                                                                            |
 
 Use the marketplace for breadth: provider variety, niche categories, and segments you already buy elsewhere. Use partner audiences when modeled, current intent matters more than catalog size.
 
@@ -26,7 +27,7 @@ Use the marketplace for breadth: provider variety, niche categories, and segment
 
 ### Step 1. Describe what you are after
 
-Give the agent a topic, behavior, or audience type in plain language, for example *tennis players*.
+Give the agent a topic, behavior, or audience type in plain language, for example _tennis players_.
 
 <figure><img src="../../.gitbook/assets/liveramp-01-prompt.png" alt="The LiveRamp marketplace agent introducing itself and receiving a plain language request for tennis players"><figcaption></figcaption></figure>
 

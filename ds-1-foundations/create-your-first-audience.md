@@ -1,6 +1,5 @@
 ---
 description: Build, refine, and syndicate your first audience in DS-1.
-icon: flag-checkered
 ---
 
 # Create your first audience

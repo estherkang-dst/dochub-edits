@@ -1,6 +1,5 @@
 ---
 description: Explore the data, AI, and workflows behind Dstillery audiences.
-icon: chart-pie
 layout:
   width: default
   title:

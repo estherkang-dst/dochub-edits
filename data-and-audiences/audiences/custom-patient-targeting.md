@@ -2,7 +2,6 @@
 description: >-
   Build condition-specific healthcare audiences with privacy-safe predictive
   modeling.
-icon: heart-pulse
 ---
 
 # Custom patient targeting

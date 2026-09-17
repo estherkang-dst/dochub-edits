@@ -2,7 +2,6 @@
 description: >-
   Seed an audience from the products people are actively shopping, then reach
   them before they convert.
-icon: cart-arrow-down
 ---
 
 # Build a purchase intent audience

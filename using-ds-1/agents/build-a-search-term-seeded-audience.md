@@ -2,7 +2,6 @@
 description: >-
   Seed an audience from the terms people search, then model the users behind
   that intent.
-icon: magnifying-glass
 ---
 
 # Build a search LAL audience

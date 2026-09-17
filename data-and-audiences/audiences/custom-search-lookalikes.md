@@ -1,6 +1,5 @@
 ---
 description: Extend active search intent into programmatic reach.
-icon: binoculars
 ---
 
 # Custom search lookalikes

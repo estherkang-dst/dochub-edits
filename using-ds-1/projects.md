@@ -2,7 +2,6 @@
 description: >-
   Keep client work siloed in its own workspace, with the files, audiences, and
   history that belong to it.
-icon: folder-tree
 ---
 
 # Projects

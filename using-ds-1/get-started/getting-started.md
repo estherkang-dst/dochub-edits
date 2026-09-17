@@ -1,9 +1,8 @@
 ---
 description: Log in to DS-1 for the first time.
-icon: rocket
 ---
 
-# Logging in to DS-1
+# First-time access & sign-in
 
 ### Log in to DS-1
 

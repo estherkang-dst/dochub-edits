@@ -2,7 +2,6 @@
 description: >-
   Seed an audience from the sites your customers already visit, then model from
   their shared visitors.
-icon: globe
 ---
 
 # Build a domain seeded audience

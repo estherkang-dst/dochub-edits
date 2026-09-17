@@ -1,6 +1,5 @@
 ---
 description: Activate precise, ready-to-use audiences without a custom build.
-icon: bolt
 ---
 
 # Pre-built audiences

@@ -1,6 +1,5 @@
 ---
 description: Use pixel data to seed custom AI segments from your first-party audience.
-icon: crosshairs
 ---
 
 # Create and seed custom AI segments

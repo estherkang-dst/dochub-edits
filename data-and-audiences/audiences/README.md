@@ -1,6 +1,5 @@
 ---
 description: Choose, build, and activate the right Dstillery audience.
-icon: people-group
 ---
 
 # Audience products

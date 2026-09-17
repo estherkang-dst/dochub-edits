@@ -1,9 +1,10 @@
 ---
-description: Start from any topic, brand, or domain and see who the audience is, what predicts them, and where to reach them.
-icon: lightbulb
+description: >-
+  Start from any topic, brand, or domain and see who the audience is, what
+  predicts them, and where to reach them.
 ---
 
-# Explore audience insights
+# Insights
 
 ## What insights gives you
 
@@ -35,7 +36,7 @@ Open **Insights** and choose how you want to start.
 
 <figure><img src="../.gitbook/assets/insights-01-entry-points.png" alt="The Insights page with the General and First-party entry point cards"><figcaption></figcaption></figure>
 
-Take **Explore a topic or brand** to start from the open web. It accepts a plain-English topic, a brand name, or a URL, with no seed list or audience setup needed first. Take **Use your first-party data** to profile a pixel instead; skip to [Step 7](#step-7-profile-your-own-pixel).
+Take **Explore a topic or brand** to start from the open web. It accepts a plain-English topic, a brand name, or a URL, with no seed list or audience setup needed first. Take **Use your first-party data** to profile a pixel instead; skip to [Step 7](insights.md#step-7-profile-your-own-pixel).
 
 ### Step 2. Answer the navigator's questions
 
@@ -63,11 +64,11 @@ The report opens with **Interest themes**: the different reasons people come to 
 
 Under the selected theme is three metrics:
 
-| Metric | What it means |
-| --- | --- |
-| **Top lift score** | How much more likely this group is to engage than the average consumer |
-| **People you can reach** | The addressable scale of the theme |
-| **Confidence** | How firm the pattern is, based on the weakest audience in the group rather than the strongest, so one outlier cannot carry it |
+| Metric                   | What it means                                                                                                                 |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Top lift score**       | How much more likely this group is to engage than the average consumer                                                        |
+| **People you can reach** | The addressable scale of the theme                                                                                            |
+| **Confidence**           | How firm the pattern is, based on the weakest audience in the group rather than the strongest, so one outlier cannot carry it |
 
 {% hint style="info" %}
 Every metric label is defined in place. Hover it to see how it is calculated before you quote the number to a client.
@@ -89,7 +90,7 @@ Three more sections come back with every run.
 
 <figure><img src="../.gitbook/assets/insights-06-content.png" alt="The Connected TV channel expanded to show network-level signals and their scores"><figcaption></figcaption></figure>
 
-The subhead tells you how much is being shown and how much is being held back (*15 of 23 signals above 0.700, across 3 dimensions*), so a short list means a strict threshold, not a thin audience. Use this section for inventory and contextual planning alongside the audience itself.
+The subhead tells you how much is being shown and how much is being held back (_15 of 23 signals above 0.700, across 3 dimensions_), so a short list means a strict threshold, not a thin audience. Use this section for inventory and contextual planning alongside the audience itself.
 
 **What they search** is real search behavior from this audience's best customers, grouped into topics and indexed against the average consumer. Index is how much more often these people search a topic than average; confidence is how firm the pattern is.
 

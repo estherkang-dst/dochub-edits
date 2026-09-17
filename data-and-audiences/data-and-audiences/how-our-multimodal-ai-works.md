@@ -2,7 +2,6 @@
 description: >-
   See how Dstillery connects behavioral, language, and partner signals to
   understand real audience intent.
-icon: brain
 ---
 
 # How our multimodal AI works

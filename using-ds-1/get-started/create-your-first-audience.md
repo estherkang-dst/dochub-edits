@@ -1,6 +1,5 @@
 ---
 description: Choose an agent, build an audience, and activate it in DS-1.
-icon: list-check
 ---
 
 # Build your first audience

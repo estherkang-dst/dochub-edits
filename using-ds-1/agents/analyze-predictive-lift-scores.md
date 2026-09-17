@@ -1,6 +1,7 @@
 ---
-description: Compare audiences against random targeting to see which ones are expected to perform before you commit budget.
-icon: gauge-high
+description: >-
+  Compare audiences against random targeting to see which ones are expected to
+  perform before you commit budget.
 ---
 
 # Analyze predictive lift scores

@@ -1,6 +1,5 @@
 ---
 description: Quick answers to common questions about DS-1.
-icon: circle-info
 ---
 
 # Frequently asked questions (FAQs)

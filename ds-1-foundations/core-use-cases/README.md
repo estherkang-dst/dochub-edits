@@ -1,7 +1,3 @@
----
-icon: puzzle-piece
----
-
 # Core use cases
 
 The audience buying process has a few distinct stages. You plan who you want to reach, discover the audiences that fit, activate them wherever you're buying, and see what's actually performing. Normally, each of those lives in a different tool, and you can spend as much time moving between them as you do on the work itself.

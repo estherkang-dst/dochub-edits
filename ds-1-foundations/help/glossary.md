@@ -1,6 +1,5 @@
 ---
 description: Your reference guide to common DS-1 terms.
-icon: spell-check
 ---
 
 # Glossary

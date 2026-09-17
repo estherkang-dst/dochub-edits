@@ -1,6 +1,5 @@
 ---
 description: Contact Dstillery for support, partnership questions, or campaign help.
-icon: phone
 ---
 
 # Contact us

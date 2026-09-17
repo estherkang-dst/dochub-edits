@@ -1,6 +1,7 @@
 ---
-description: Search partner data from NIQ, Emporia, ScreenEngine, and Resonate, then syndicate what fits.
-icon: handshake
+description: >-
+  Search partner data from NIQ, Emporia, ScreenEngine, and Resonate, then
+  syndicate what fits.
 ---
 
 # Partnership Audience Search
@@ -32,7 +33,7 @@ Comparing against the open marketplace? See [LiveRamp data marketplace search](l
 
 ### Step 1. Describe what you are after
 
-Give the agent a topic, brand, or vertical in plain language, for example *people who are luxury EV buyers*. No taxonomy syntax required.
+Give the agent a topic, brand, or vertical in plain language, for example _people who are luxury EV buyers_. No taxonomy syntax required.
 
 <figure><img src="../../.gitbook/assets/partner-00-prompt.png" alt="The Partnership audience agent introducing itself and receiving a plain language request for luxury EV buyers"><figcaption></figcaption></figure>
 
@@ -49,7 +50,7 @@ Not quite right? Use the suggestion chips to refine the search or chat with DS-1
 {% hint style="info" %}
 Do not forget to select your marketer and destination at the top before you syndicate.
 
-<figure><img src="../../.gitbook/assets/partner-03-marketer-bar.png" alt="The top bar showing marketer 720Demo to The Trade Desk"><figcaption></figcaption></figure>
+<img src="../../.gitbook/assets/partner-03-marketer-bar.png" alt="" data-size="original">
 {% endhint %}
 
 ### Step 3. Select and syndicate

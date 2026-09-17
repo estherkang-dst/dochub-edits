@@ -1,6 +1,5 @@
 ---
 description: Find answers, reference DS-1 terms, or contact the Dstillery team.
-icon: life-ring
 ---
 
 # Help

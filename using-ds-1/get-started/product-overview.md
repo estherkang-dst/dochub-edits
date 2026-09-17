@@ -1,9 +1,8 @@
 ---
 description: Learn how DS-1 turns a campaign goal into an activated audience.
-icon: key
 ---
 
-# DS-1 Overview
+# DS-1 overview
 
 ### Meet DS-1
 

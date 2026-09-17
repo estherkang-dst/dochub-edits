@@ -1,6 +1,5 @@
 ---
 description: Reach shoppers who show strong, current purchase intent.
-icon: bag-shopping
 ---
 
 # Retail purchase intent audiences

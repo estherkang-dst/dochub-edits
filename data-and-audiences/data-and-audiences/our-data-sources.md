@@ -2,7 +2,6 @@
 description: >-
   Explore the consented, scaled, and specialized signals behind Dstillery
   audiences.
-icon: satellite-dish
 ---
 
 # Our data sources

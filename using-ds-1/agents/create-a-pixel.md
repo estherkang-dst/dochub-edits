@@ -1,6 +1,7 @@
 ---
-description: Generate a tracking tag, place it on your site, and build Custom AI audiences from the data it collects.
-icon: code
+description: >-
+  Generate a tracking tag, place it on your site, and build Custom AI audiences
+  from the data it collects.
 ---
 
 # Create a pixel
