@@ -1,12 +1,11 @@
 ---
-description: Your reference guide to common DS-1 terms.
 hidden: true
 icon: language
 ---
 
 # Glossary
 
-Use this reference to understand common DS-1 terms and capabilities.
+
 
 ### 24-Hour Scoring
 
