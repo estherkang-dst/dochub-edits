@@ -1,5 +1,6 @@
 ---
 description: Start here to understand DS-1, plan your audience, and activate it.
+icon: footsteps
 ---
 
 # Get started
@@ -18,17 +19,13 @@ Start with the essentials, then choose the path that fits your campaign.
 
 {% stepper %}
 {% step %}
-### Learn the platform
-
-See how DS-1 turns campaign goals into audience recommendations.
-{% endstep %}
-
-{% step %}
-### Understand the workflow
+### Understand DS-1
 
 See how DS-1 turns plain-language goals into campaign-ready audiences.
 
-Open DS-1 Overview
+{% content-ref url="using-ds-1/get-started/product-overview.md" %}
+[product-overview.md](using-ds-1/get-started/product-overview.md)
+{% endcontent-ref %}
 {% endstep %}
 
 {% step %}
@@ -52,7 +49,7 @@ Choose programmatic or social activation after you have an audience.
 {% endstep %}
 {% endstepper %}
 
-### Choose your starting point
+### Need a different starting point?
 
 {% tabs %}
 {% tab title="I have a campaign brief" %}
