@@ -56,4 +56,4 @@ Use the work email address configured for DS-1. Check spam if the reset email do
 {% endstep %}
 {% endstepper %}
 
-**Next:** [Create your first audience](../../ds-1-foundations/create-your-first-audience.md).
+**Next:** [Quick start](create-your-first-audience.md).
