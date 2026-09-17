@@ -16,18 +16,18 @@ Turn a campaign brief into an audience ready to activate. Start with the signal 
 
 Choose the path that matches your available signal.
 
-* **Customer or conversion data** — Build a [custom-ai-audiences.md](custom-ai-audiences.md "mention") from CRM lists, site visitors, pixels, or conversion logs.
-* **A domain, keyword, product, or existing audience** — Build a [custom-built-audiences.md](custom-built-audiences.md "mention").
-* **No seed or build time** — Activate a [pre-built-audiences.md](pre-built-audiences.md "mention").
+* **Customer or conversion data:** Build a [custom-ai-audiences.md](custom-ai-audiences.md "mention") from CRM lists, site visitors, pixels, or conversion logs.
+* **A domain, keyword, product, or existing audience:** Build a [custom-built-audiences.md](custom-built-audiences.md "mention").
+* **No seed or build time:** Activate a [pre-built-audiences.md](pre-built-audiences.md "mention").
 
 ### Choose a specialized audience
 
 Use a purpose-built audience when the campaign depends on a specific channel or intent signal.
 
-* **Search intent** — [custom-search-lookalikes.md](custom-search-lookalikes.md "mention") uses search intent as the seed.
-* **Retail and CPG** — [retail-purchase-intent-audiences.md](retail-purchase-intent-audiences.md "mention") uses purchase signals as the seed.
-* **CTV** — [ctv-optimized-audiences.md](ctv-optimized-audiences.md "mention") provides models built for CTV campaigns.
-* **Healthcare and pharma** — [custom-patient-targeting.md](custom-patient-targeting.md "mention") uses medical claims or patient-search seeds.
+* **Search intent:** [custom-search-lookalikes.md](custom-search-lookalikes.md "mention") uses search intent as the seed.
+* **Retail and CPG:** [retail-purchase-intent-audiences.md](retail-purchase-intent-audiences.md "mention") uses purchase signals as the seed.
+* **CTV:** [ctv-optimized-audiences.md](ctv-optimized-audiences.md "mention") provides models built for CTV campaigns.
+* **Healthcare and pharma:** [custom-patient-targeting.md](custom-patient-targeting.md "mention") uses medical claims or patient-search seeds.
 
 ### From signal to activation
 
@@ -43,9 +43,9 @@ Pre-built Audiences skip modeling and activate directly.
 
 Put completed audiences to work through the option that fits your media plan.
 
-* **User segments** — Reach daily refreshed, identity-based audiences.
-* **Contextual** — Score inventory in real time, beyond page keywords.
-* **Curated deals** — Activate private marketplace packages through SSP partners.
-* **Custom bidding algorithms** — Apply model intelligence to bid decisions.
+* **User segments:** Reach daily refreshed, identity-based audiences.
+* **Contextual:** Score inventory in real time, beyond page keywords.
+* **Curated deals:** Activate private marketplace packages through SSP partners.
+* **Custom bidding algorithms:** Apply model intelligence to bid decisions.
 
 Compare options and costs in [pricing.md](pricing.md "mention").
