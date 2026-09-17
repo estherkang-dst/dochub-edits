@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Dstillery documentation](README.md)
+* [Welcome to Dstillery Docs](README.md)
 
 ## Using DS-1
 
