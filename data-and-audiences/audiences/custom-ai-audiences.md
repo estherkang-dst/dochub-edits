@@ -35,7 +35,9 @@ Dstillery combines all of your data into one predictive model. It uses real beha
 {% step %}
 #### Prepare the seed
 
-First-party seed data can include site visitors, CRM lists, conversion pixels, or campaign logs.
+First-Party Seed Requirements Custom models can be trained using site visitors, CRM lists, conversion pixels, or campaign logs.&#x20;
+
+While most providers demand massive seed pools, Dstillery requires a minimum of only 1,000 seeds to build an accurate model.
 {% endstep %}
 
 {% step %}
