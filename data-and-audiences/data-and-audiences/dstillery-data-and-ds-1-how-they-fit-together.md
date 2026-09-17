@@ -19,7 +19,7 @@ Dstillery combines two datasets. One teaches intent. The other finds it at scale
 
 About 2 million fully consented users reveal the journeys behind decisions.
 
-Their research, comparison, and consideration train the model. The data never targets an individual directly.
+Their website visits, actions, and behaviors are used to train the model, not to target them directly.
 {% endcolumn %}
 
 {% column %}
