@@ -1,63 +1,42 @@
 ---
 description: Use DS-1 agents to find, build, analyze, and optimize audiences.
-hidden: true
 icon: wand-magic-sparkles
 ---
 
 # Agents
 
-DS-1 agents guide each step of audience planning and activation. Choose a workflow that matches your campaign goal.
+## Start from discovery
 
-### Find and build audiences
+Use these when you do not yet know which audience you want.
 
-{% content-ref url="find-prebuilt-audiences.md" %}
-[find-prebuilt-audiences.md](find-prebuilt-audiences.md)
-{% endcontent-ref %}
+| Agent | Start from | What you get |
+| --- | --- | --- |
+| [Find prebuilt audiences](find-prebuilt-audiences.md) | A topic, brand, domain, or category | Matching audiences from the DS-1 catalog, grouped and ready to syndicate |
+| [Partnership audience search](partnership-audience-search.md) | A topic, brand, domain, or category | Audiences from Dstillery's data partners |
+| [LiveRamp data marketplace search](liveramp-data-marketplace.md) | A topic, brand, domain, or category | Audiences from providers across the LiveRamp marketplace |
 
-{% content-ref url="build-or-refine-an-audience-brief.md" %}
-[build-or-refine-an-audience-brief.md](build-or-refine-an-audience-brief.md)
-{% endcontent-ref %}
+## Build a custom audience
 
-{% content-ref url="build-a-domain-seeded-audience.md" %}
-[build-a-domain-seeded-audience.md](build-a-domain-seeded-audience.md)
-{% endcontent-ref %}
+Use these when you know the signal you want to model against.
 
-{% content-ref url="build-a-search-term-seeded-audience.md" %}
-[build-a-search-term-seeded-audience.md](build-a-search-term-seeded-audience.md)
-{% endcontent-ref %}
+| Agent | Seed | Best for |
+| --- | --- | --- |
+| [Build or refine an audience brief](build-or-refine-an-audience-brief.md) | A brief, RFP, or campaign description | Turning a brief into a targeting plan before anything is built |
+| [Build a domain seeded audience](build-a-domain-seeded-audience.md) | Websites | Modeling the people who visit a known set of sites |
+| [Build a search LAL audience](build-a-search-term-seeded-audience.md) | Search terms | Reaching active intent as it happens |
+| [Build a purchase intent audience](build-a-purchase-intent-audience.md) | Product signals | Shoppers in market for a specific category |
 
-{% content-ref url="build-a-purchase-intent-audience.md" %}
-[build-a-purchase-intent-audience.md](build-a-purchase-intent-audience.md)
-{% endcontent-ref %}
+## Measure and instrument
 
-### Analyze and improve
+| Agent | What it does |
+| --- | --- |
+| [Analyze predictive lift scores](analyze-predictive-lift-scores.md) | Ranks audiences by expected performance against a real conversion signal, before budget is committed |
+| [Create a pixel](create-a-pixel.md) | Sets up the tracking tag that feeds first-party audiences and lift analysis |
 
-{% content-ref url="analyze-predictive-lift-scores.md" %}
-[analyze-predictive-lift-scores.md](analyze-predictive-lift-scores.md)
-{% endcontent-ref %}
+## Around the agents
 
-{% content-ref url="create-a-pixel.md" %}
-[create-a-pixel.md](create-a-pixel.md)
-{% endcontent-ref %}
+Three pages sit outside the agent list but touch every one of them.
 
-{% content-ref url="insights.md" %}
-[insights.md](insights.md)
-{% endcontent-ref %}
-
-### Explore partner solutions
-
-{% content-ref url="partnership-audience-search.md" %}
-[partnership-audience-search.md](partnership-audience-search.md)
-{% endcontent-ref %}
-
-{% content-ref url="liveramp-data-marketplace.md" %}
-[liveramp-data-marketplace.md](liveramp-data-marketplace.md)
-{% endcontent-ref %}
-
-### Coming soon
-
-{% content-ref url="campaign-optimization-coming-soon.md" %}
-[campaign-optimization-coming-soon.md](campaign-optimization-coming-soon.md)
-{% endcontent-ref %}
-
-***
+* [Explore audience insights](insights.md) profiles a topic, brand, domain, or your own pixel data, so you know who you are targeting before you build.
+* [Work in projects](../projects.md) keeps a campaign's files, audiences, and agent runs in one shared place.
+* [Build and activate to a DSP or SSP](../get-started/activation/programmatic-dsps-ssps.md) is where most agents end: picking reach sizes and sending audiences to a destination.
