@@ -1,94 +1,22 @@
 ---
-description: Start here to understand DS-1, plan your audience, and activate it.
-icon: traffic-light-go
+description: >-
+  Learn to build and activate audiences with DS-1, and explore the data behind
+  them.
+icon: hand-wave
 ---
 
-# Get started
+# Welcome to Dstillery documentation
 
-### Turn a campaign goal into a live audience
+## Build better audiences with DS-1
 
-DS-1 is Dstillery's agentic advertising platform. Describe your campaign goal in plain language to find, build, and activate the right audience.
+Use these guides to turn campaign goals into audiences you can activate. Explore how Dstillery data and modeling support each decision.
 
-Start with the essentials, then choose the path that fits your campaign.
+<table data-view="cards"><thead><tr><th>Start here</th><th data-card-target data-type="content-ref">Guide</th></tr></thead><tbody><tr><td><strong>Use DS-1</strong><br>Learn the workflows for building, analyzing, and activating audiences.</td><td><a href="https://app.gitbook.com/s/ELPQcRUNChhv6VKohGYM/using-ds-1">Using DS-1</a></td></tr><tr><td><strong>Understand data and audiences</strong><br>Explore Dstillery data, modeling, and audience products.</td><td><a href="https://app.gitbook.com/s/ELPQcRUNChhv6VKohGYM/data-and-audiences">Data &#x26; Audiences</a></td></tr><tr><td><strong>Find help and reference material</strong><br>Get answers, review key terms, or contact the Dstillery team.</td><td><a href="resources/">resources</a></td></tr></tbody></table>
 
-{% embed url="https://www.youtube.com/watch?v=A6QN259qBKg&feature=youtu.be" %}
+### New to DS-1?
 
-{% hint style="success" %}
-**New to DS-1?** Follow the four steps below in order. Most teams can move from a campaign idea to an activation-ready audience in one working session.
-{% endhint %}
+Start with [Get started](<README (2).md>). It covers first-time access, your first audience, and activation.
 
-{% stepper %}
-{% step %}
-### Learn the platform
+### Ready to work from a campaign goal?
 
-See how DS-1 turns campaign goals into audience recommendations.
-{% endstep %}
-
-{% step %}
-### Understand the workflow
-
-See how DS-1 turns plain-language goals into campaign-ready audiences.
-
-Open DS-1 Overview
-{% endstep %}
-
-{% step %}
-### Build your first audience
-
-Use the guided quick start when you are ready to create an audience.
-
-{% content-ref url="using-ds-1/get-started/create-your-first-audience.md" %}
-[create-your-first-audience.md](using-ds-1/get-started/create-your-first-audience.md)
-{% endcontent-ref %}
-{% endstep %}
-
-{% step %}
-### Activate it
-
-Choose programmatic or social activation after you have an audience.
-
-{% content-ref url="using-ds-1/get-started/activation/" %}
-[activation](using-ds-1/get-started/activation/)
-{% endcontent-ref %}
-{% endstep %}
-{% endstepper %}
-
-### Choose your starting point
-
-{% tabs %}
-{% tab title="I have a campaign brief" %}
-Turn your goal into a recommendation, then refine it with an agent.
-
-{% content-ref url="using-ds-1/agents/build-or-refine-an-audience-brief.md" %}
-[build-or-refine-an-audience-brief.md](using-ds-1/agents/build-or-refine-an-audience-brief.md)
-{% endcontent-ref %}
-{% endtab %}
-
-{% tab title="I know my seed signal" %}
-Build from domains, search terms, products, or customer data.
-
-{% content-ref url="using-ds-1/agents/" %}
-[agents](using-ds-1/agents/)
-{% endcontent-ref %}
-{% endtab %}
-
-{% tab title="I need an audience now" %}
-Find a ready-to-activate option for your campaign.
-
-{% content-ref url="using-ds-1/agents/find-prebuilt-audiences.md" %}
-[find-prebuilt-audiences.md](using-ds-1/agents/find-prebuilt-audiences.md)
-{% endcontent-ref %}
-{% endtab %}
-{% endtabs %}
-
-### Set up your workspace
-
-Use projects to keep each client's assets, audiences, and activity separate.
-
-{% content-ref url="using-ds-1/projects.md" %}
-[projects.md](using-ds-1/projects.md)
-{% endcontent-ref %}
-
-{% hint style="info" %}
-Need help? Reach out to your Dstillery team.
-{% endhint %}
+Open [Agents](using-ds-1/agents/) to choose the right workflow. Start from a brief, a known audience, domains, search terms, or product signals.
