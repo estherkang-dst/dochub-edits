@@ -13,9 +13,9 @@ Dstillery's multimodal AI builds a predictive model from those signals. It finds
 
 Use the DS-1 agent that matches your seed:
 
-* [build-a-domain-seeded-audience.md](../../ds-1-guide/agents/build-a-domain-seeded-audience.md "mention") for websites and domains.
-* [build-a-search-term-seeded-audience.md](../../ds-1-guide/agents/build-a-search-term-seeded-audience.md "mention") for search terms.
-* [build-a-purchase-intent-audience.md](../../ds-1-guide/agents/build-a-purchase-intent-audience.md "mention") for retail products.
+* [build-a-domain-seeded-audience.md](../../ds-1/agents/build-a-domain-seeded-audience.md "mention") for websites and domains.
+* [build-a-search-term-seeded-audience.md](../../ds-1/agents/build-a-search-term-seeded-audience.md "mention") for search terms.
+* [build-a-purchase-intent-audience.md](../../ds-1/agents/build-a-purchase-intent-audience.md "mention") for retail products.
 
 Prefer a managed approach? Your Dstillery Client Services team can build any of these for you.
 

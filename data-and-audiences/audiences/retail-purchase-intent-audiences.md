@@ -13,7 +13,7 @@ Dstillery identifies devices showing strong purchase intent, then finds similar 
 
 Unlike on-site retail media, which is limited to retailer environments, these audiences extend reach across the open web. Engage high-intent shoppers wherever they spend time.
 
-Use DS-1 to choose product seeds and build a purchase intent audience. See [build-a-purchase-intent-audience.md](../../ds-1-guide/agents/build-a-purchase-intent-audience.md "mention").&#x20;
+Use DS-1 to choose product seeds and build a purchase intent audience. See [build-a-purchase-intent-audience.md](../../ds-1/agents/build-a-purchase-intent-audience.md "mention").
 
 Prefer a managed approach? Your Dstillery Client Services team can build this for you.
 
