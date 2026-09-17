@@ -20,8 +20,7 @@
 ## DS-1 Guide
 
 * [Get started](ds-1-guide/get-started/README.md)
-  * [DS-1 Overview](ds-1-guide/get-started/product-overview/README.md)
-    * [Projects](ds-1-guide/get-started/product-overview/projects.md)
+  * [DS-1 Overview](ds-1-guide/get-started/product-overview.md)
   * [Activation](ds-1-guide/get-started/activation/README.md)
     * [Programmatic (DSPs / SSPs)](ds-1-guide/get-started/activation/programmatic-dsps-ssps.md)
     * [Social](ds-1-guide/get-started/activation/social.md)
@@ -38,6 +37,7 @@
   * [LiveRamp Data Marketplace](ds-1-guide/agents/liveramp-data-marketplace.md)
   * [Campaign Optimization (Coming Soon)](ds-1-guide/agents/campaign-optimization-coming-soon.md)
   * [Insights](ds-1-guide/agents/insights.md)
+* [Projects](ds-1-guide/projects.md)
 
 ## Data & Audiences
 

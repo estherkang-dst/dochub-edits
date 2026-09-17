@@ -86,8 +86,8 @@ Find a ready-to-activate option for your campaign.
 
 Use projects to keep each client's assets, audiences, and activity separate.
 
-{% content-ref url="product-overview/projects.md" %}
-[projects.md](product-overview/projects.md)
+{% content-ref url="../projects.md" %}
+[projects.md](../projects.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

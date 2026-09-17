@@ -77,5 +77,5 @@ When the brief looks right, say **build them all** and DS-1 builds every recomme
 Builds land on the home page under **Recent Activity**. Syndicate from there; see [Build and activate to a DSP or SSP](../../ds-1-foundations/core-use-cases/build-and-activate-to-a-dsp-or-ssp.md) for reach sizes and destinations.
 
 {% hint style="info" %}
-Working inside a project? The brief agent reads the project's attached files and instructions, so you do not have to re-upload the brief each session. See [Work in projects](../get-started/product-overview/projects.md).
+Working inside a project? The brief agent reads the project's attached files and instructions, so you do not have to re-upload the brief each session. See [Work in projects](../projects.md).
 {% endhint %}
