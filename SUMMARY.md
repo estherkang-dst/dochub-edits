@@ -20,7 +20,7 @@
 ## DS-1 Guide
 
 * [Get started](ds-1-guide/get-started/README.md)
-  * [DS-1 Overview](ds-1-guide/get-started/product-overview.md)
+  * [DS-1 overview](ds-1-guide/get-started/product-overview.md)
   * [Creating an account](ds-1-guide/get-started/getting-started.md)
   * [Quick start](ds-1-guide/get-started/create-your-first-audience.md)
   * [Activation](ds-1-guide/get-started/activation/README.md)
