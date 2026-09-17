@@ -40,8 +40,8 @@ DS-1 agents guide each step of audience planning and activation. Choose a workfl
 [create-a-pixel.md](create-a-pixel.md)
 {% endcontent-ref %}
 
-{% content-ref url="insights.md" %}
-[insights.md](insights.md)
+{% content-ref url="../insights.md" %}
+[insights.md](../insights.md)
 {% endcontent-ref %}
 
 ### Explore partner solutions
