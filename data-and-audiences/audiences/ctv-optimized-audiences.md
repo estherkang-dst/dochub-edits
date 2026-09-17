@@ -23,7 +23,7 @@ Most CTV solutions push web audiences to the big screen. They do not account for
 {% column %}
 #### After
 
-Dstillery's multimodal AI translates web browsing and search intent into CTV-specific targeting. It finds the right viewers, not just the most viewers.
+Dstillery's multimodal AI translates web browsing and search intent into targeting that reaches the right CTV viewers, when your DSP supports porting ID-free signal to CTV inventory.
 {% endcolumn %}
 {% endcolumns %}
 
@@ -33,7 +33,7 @@ Dstillery's multimodal AI translates web browsing and search intent into CTV-spe
 {% step %}
 #### Map cross-channel signals
 
-Dstillery's multimodal AI maps web behavior, search intent, and CTV viewership patterns across 400M+ devices.
+Dstillery's multimodal AI maps web behavior and search intent across 400M+ devices, then applies that intent to CTV inventory.
 {% endstep %}
 
 {% step %}
@@ -60,7 +60,7 @@ Activate it as user segments, curated deals, or contextual targeting.
 {% hint style="success" %}
 * Purpose-built for CTV, not web audiences repurposed for the big screen.
 * Multimodal AI connects what people search and browse to what they watch.
-* Works in environments where cookies and device IDs do not exist, unlike most CTV inventory.
+* Extends web and search-based targeting into cookieless CTV environments, when your DSP can resolve ID-free signal to CTV inventory.
 {% endhint %}
 
 ### Good fit if you
