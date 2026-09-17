@@ -35,4 +35,4 @@ Dstillery turns observed behavior into campaign-ready audience intelligence. One
 
 You can build and activate audiences yourself in DS-1, or the Dstillery team can do it for you. Either way, DS-1 does the work underneath. Choose your input and activation path.
 
-<a href="../audiences/audience-type-overview.md" class="button secondary" data-icon="arrow-right">Build an audience</a>
+<a href="/broken/pages/B8SzmJyY8fWPSJR8CGyz" class="button secondary" data-icon="arrow-right">Build an audience</a>

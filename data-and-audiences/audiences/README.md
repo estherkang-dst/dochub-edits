@@ -1,33 +1,33 @@
 ---
-description: Choose, build, and activate Dstillery audiences.
+description: Choose, build, and activate the right Dstillery audience.
 hidden: true
 icon: people-group
 ---
 
-# Audiences
+# Audience products
 
 Turn a campaign brief into an audience ready to activate. Start with the signal that best represents your customer or goal.
 
 {% hint style="info" %}
-**Custom audiences use Dstillery’s multimodal AI.** Models are delivered within 24 hours and refresh daily.
+**Custom audiences use Dstillery’s multimodal AI.** Models are delivered within 24 hours, refresh every 24 hours, and support flexible activation.
 {% endhint %}
 
-### Choose an audience
+### Choose an audience product
 
 Choose the path that matches your available signal.
 
-* **Customer or conversion data** — Build a [custom-ai-audiences.md](custom-ai-audiences.md "mention").
-* **A domain, keyword, or product** — Build a [custom-built-audiences.md](custom-built-audiences.md "mention").
+* **Customer or conversion data** — Build a [custom-ai-audiences.md](custom-ai-audiences.md "mention") from CRM lists, site visitors, pixels, or conversion logs.
+* **A domain, keyword, product, or existing audience** — Build a [custom-built-audiences.md](custom-built-audiences.md "mention").
 * **No seed or build time** — Activate a [pre-built-audiences.md](pre-built-audiences.md "mention").
 
 ### Choose a specialized audience
 
 Use a purpose-built audience when the campaign depends on a specific channel or intent signal.
 
-* **Search intent** — [custom-search-lookalikes.md](custom-search-lookalikes.md "mention").
-* **Retail and CPG** — [retail-purchase-intent-audiences.md](retail-purchase-intent-audiences.md "mention").
-* **CTV** — [ctv-optimized-audiences.md](ctv-optimized-audiences.md "mention").
-* **Healthcare and pharma** — [custom-patient-targeting.md](custom-patient-targeting.md "mention").
+* **Search intent** — [custom-search-lookalikes.md](custom-search-lookalikes.md "mention") uses search intent as the seed.
+* **Retail and CPG** — [retail-purchase-intent-audiences.md](retail-purchase-intent-audiences.md "mention") uses purchase signals as the seed.
+* **CTV** — [ctv-optimized-audiences.md](ctv-optimized-audiences.md "mention") provides models built for CTV campaigns.
+* **Healthcare and pharma** — [custom-patient-targeting.md](custom-patient-targeting.md "mention") uses medical claims or patient-search seeds.
 
 ### From signal to activation
 

@@ -77,4 +77,4 @@ For a custom predictive audience, DS-1 builds the model and delivers it to your 
 
 DS-1 uses multimodal understanding to reason across available signal types. It can turn a brief, seed, or observed behavior into an audience and activation strategy.
 
-Next, choose the right audience input in [audience-type-overview.md](../audiences/audience-type-overview.md "mention").
+Next, choose the right audience input in [Broken link](/broken/pages/B8SzmJyY8fWPSJR8CGyz "mention").
