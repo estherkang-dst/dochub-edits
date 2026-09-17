@@ -1,6 +1,5 @@
 ---
 description: Start here to understand DS-1, plan your audience, and activate it.
-hidden: true
 icon: traffic-light-go
 ---
 

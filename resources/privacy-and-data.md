@@ -2,13 +2,10 @@
 description: >-
   Understand how DS-1 and Dstillery handle data, model architecture, retention,
   security, and sensitive-category targeting.
-hidden: true
 icon: user-shield
 ---
 
 # Privacy and data
-
-
 
 ### Data handling
 

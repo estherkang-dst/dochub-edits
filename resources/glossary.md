@@ -1,6 +1,5 @@
 ---
 description: Definitions for common DS-1, audience, data, and activation terms.
-hidden: true
 icon: language
 ---
 

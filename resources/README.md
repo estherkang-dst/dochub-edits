@@ -1,6 +1,5 @@
 ---
 description: Find answers, learn DS-1 terms, and contact the Dstillery team.
-hidden: true
 icon: folder-open
 ---
 

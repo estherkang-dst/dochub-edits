@@ -2,7 +2,6 @@
 description: >-
   Find answers about DS-1, Dstillery data, audience building, activation, and
   measurement.
-hidden: true
 icon: messages
 ---
 
