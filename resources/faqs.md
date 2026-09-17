@@ -1,7 +1,7 @@
 ---
 description: >-
-  Find answers to common questions about building, activating, and measuring
-  audiences in DS-1.
+  Find answers about DS-1, Dstillery data, audience building, activation, and
+  measurement.
 hidden: true
 icon: messages
 ---
