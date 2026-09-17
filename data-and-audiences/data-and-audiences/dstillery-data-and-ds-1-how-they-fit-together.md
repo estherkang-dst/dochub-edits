@@ -31,7 +31,7 @@ It comes from bidstream partners and web publishing tools. The model uses it to 
 {% endcolumn %}
 {% endcolumns %}
 
-**Opted-in panel data teaches. Website visitation data reaches.**
+**Panel data confirms it. Behavioral data proves it at scale.**
 
 For a travel campaign, panel journeys might show future bookers comparing reviews and revisiting flight options. Website activity then identifies devices with comparable behavior.
 
