@@ -68,5 +68,5 @@ The audience buying process usually has a lot of moving parts, and a lot of them
 So instead of asking "how do I build this audience," you get to ask the better question: "who do I actually want to reach, and what do I want to happen next?" DS-1 handles the rest.
 
 {% hint style="success" %}
-**Now that you know what DS-1 is**, proceed to the Logging in to DS-1 section to set up your access and begin exploring the platform.
+**Now that you know what DS-1 is**, proceed to [Logging in to DS-1](getting-started.md) to set up your access and begin exploring the platform.
 {% endhint %}
