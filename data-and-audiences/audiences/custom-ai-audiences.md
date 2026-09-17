@@ -35,9 +35,9 @@ Dstillery combines all of your data into one predictive model. It uses real beha
 {% step %}
 #### Prepare the seed
 
-First-Party Seed Requirements Custom models can be trained using site visitors, CRM lists, conversion pixels, or campaign logs.&#x20;
+First-party seed data can include site visitors, conversion pixels, or campaign logs. Set these up in DS-1 or work with Dstillery Client Services.
 
-While most providers demand massive seed pools, Dstillery requires a minimum of only 1,000 seeds to build an accurate model.
+CRM lists require Client Services for matching and ingestion. Dstillery requires at least 1,000 seeds to build a predictive model.
 {% endstep %}
 
 {% step %}
@@ -69,7 +69,7 @@ One model powers every activation method, from user segments to custom bidding a
 
 ### Good fit if you
 
-* Have first-party data to work with, like site visitors, a CRM list, conversion pixels, or campaign logs.
+* Have first-party data to work with. Set up site visitors, conversion pixels, and campaign logs in DS-1. Use Client Services for CRM lists.
 * Are running prospecting campaigns and want to scale beyond retargeting.
 * Want your custom audience built from real behavioral patterns, not a generic lookalike.
 
