@@ -1,27 +1,27 @@
 # Table of contents
 
-## DS-1
+## Using DS-1
 
 * [Get started](README.md)
-  * [DS-1 overview](ds-1/get-started/product-overview.md)
-  * [First-time access & sign-in](ds-1/get-started/getting-started.md)
-  * [Build your first audience](ds-1/get-started/create-your-first-audience.md)
-  * [Activation](ds-1/get-started/activation/README.md)
-    * [Programmatic (DSPs / SSPs)](ds-1/get-started/activation/programmatic-dsps-ssps.md)
-    * [Social](ds-1/get-started/activation/social.md)
-* [Agents](ds-1/agents/README.md)
-  * [Find prebuilt audiences](ds-1/agents/find-prebuilt-audiences.md)
-  * [Build or refine an audience brief](ds-1/agents/build-or-refine-an-audience-brief.md)
-  * [Build a domain seeded audience](ds-1/agents/build-a-domain-seeded-audience.md)
-  * [Build a search LAL audience](ds-1/agents/build-a-search-term-seeded-audience.md)
-  * [Build a purchase intent audience](ds-1/agents/build-a-purchase-intent-audience.md)
-  * [Analyze predictive lift scores](ds-1/agents/analyze-predictive-lift-scores.md)
-  * [Create a pixel](ds-1/agents/create-a-pixel.md)
-  * [Partnership Audience Search](ds-1/agents/partnership-audience-search.md)
-  * [LiveRamp Data Marketplace](ds-1/agents/liveramp-data-marketplace.md)
-  * [Campaign Optimization (Coming Soon)](ds-1/agents/campaign-optimization-coming-soon.md)
-* [Insights](ds-1/insights.md)
-* [Projects](ds-1/projects.md)
+  * [DS-1 overview](using-ds-1/get-started/product-overview.md)
+  * [First-time access & sign-in](using-ds-1/get-started/getting-started.md)
+  * [Build your first audience](using-ds-1/get-started/create-your-first-audience.md)
+  * [Activation](using-ds-1/get-started/activation/README.md)
+    * [Programmatic (DSPs / SSPs)](using-ds-1/get-started/activation/programmatic-dsps-ssps.md)
+    * [Social](using-ds-1/get-started/activation/social.md)
+* [Agents](using-ds-1/agents/README.md)
+  * [Find prebuilt audiences](using-ds-1/agents/find-prebuilt-audiences.md)
+  * [Build or refine an audience brief](using-ds-1/agents/build-or-refine-an-audience-brief.md)
+  * [Build a domain seeded audience](using-ds-1/agents/build-a-domain-seeded-audience.md)
+  * [Build a search LAL audience](using-ds-1/agents/build-a-search-term-seeded-audience.md)
+  * [Build a purchase intent audience](using-ds-1/agents/build-a-purchase-intent-audience.md)
+  * [Analyze predictive lift scores](using-ds-1/agents/analyze-predictive-lift-scores.md)
+  * [Create a pixel](using-ds-1/agents/create-a-pixel.md)
+  * [Partnership Audience Search](using-ds-1/agents/partnership-audience-search.md)
+  * [LiveRamp Data Marketplace](using-ds-1/agents/liveramp-data-marketplace.md)
+  * [Campaign Optimization (Coming Soon)](using-ds-1/agents/campaign-optimization-coming-soon.md)
+* [Insights](using-ds-1/insights.md)
+* [Projects](using-ds-1/projects.md)
 
 ## Data & Audiences
 

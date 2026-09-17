@@ -37,8 +37,8 @@ Open DS-1 Overview
 
 Use the guided quick start when you are ready to create an audience.
 
-{% content-ref url="ds-1/get-started/create-your-first-audience.md" %}
-[create-your-first-audience.md](ds-1/get-started/create-your-first-audience.md)
+{% content-ref url="using-ds-1/get-started/create-your-first-audience.md" %}
+[create-your-first-audience.md](using-ds-1/get-started/create-your-first-audience.md)
 {% endcontent-ref %}
 {% endstep %}
 
@@ -47,8 +47,8 @@ Use the guided quick start when you are ready to create an audience.
 
 Choose programmatic or social activation after you have an audience.
 
-{% content-ref url="ds-1/get-started/activation/" %}
-[activation](ds-1/get-started/activation/)
+{% content-ref url="using-ds-1/get-started/activation/" %}
+[activation](using-ds-1/get-started/activation/)
 {% endcontent-ref %}
 {% endstep %}
 {% endstepper %}
@@ -59,24 +59,24 @@ Choose programmatic or social activation after you have an audience.
 {% tab title="I have a campaign brief" %}
 Turn your goal into a recommendation, then refine it with an agent.
 
-{% content-ref url="ds-1/agents/build-or-refine-an-audience-brief.md" %}
-[build-or-refine-an-audience-brief.md](ds-1/agents/build-or-refine-an-audience-brief.md)
+{% content-ref url="using-ds-1/agents/build-or-refine-an-audience-brief.md" %}
+[build-or-refine-an-audience-brief.md](using-ds-1/agents/build-or-refine-an-audience-brief.md)
 {% endcontent-ref %}
 {% endtab %}
 
 {% tab title="I know my seed signal" %}
 Build from domains, search terms, products, or customer data.
 
-{% content-ref url="ds-1/agents/" %}
-[agents](ds-1/agents/)
+{% content-ref url="using-ds-1/agents/" %}
+[agents](using-ds-1/agents/)
 {% endcontent-ref %}
 {% endtab %}
 
 {% tab title="I need an audience now" %}
 Find a ready-to-activate option for your campaign.
 
-{% content-ref url="ds-1/agents/find-prebuilt-audiences.md" %}
-[find-prebuilt-audiences.md](ds-1/agents/find-prebuilt-audiences.md)
+{% content-ref url="using-ds-1/agents/find-prebuilt-audiences.md" %}
+[find-prebuilt-audiences.md](using-ds-1/agents/find-prebuilt-audiences.md)
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
@@ -85,8 +85,8 @@ Find a ready-to-activate option for your campaign.
 
 Use projects to keep each client's assets, audiences, and activity separate.
 
-{% content-ref url="ds-1/projects.md" %}
-[projects.md](ds-1/projects.md)
+{% content-ref url="using-ds-1/projects.md" %}
+[projects.md](using-ds-1/projects.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}

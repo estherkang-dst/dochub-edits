@@ -11,7 +11,7 @@ Custom Search Lookalikes are a specialized type of Custom Built Audience. They a
 
 Dstillery uses opted-in search panel data and ID-free technology. It identifies people searching for your brand's keywords and finds others with the same behaviors across the open web, CTV, and beyond. The result is search-quality intent at programmatic scale, without cookies or deterministic IDs.
 
-Use DS-1 to select search terms and build a lookalike audience. See [build-a-search-term-seeded-audience.md](../../ds-1/agents/build-a-search-term-seeded-audience.md "mention").
+Use DS-1 to select search terms and build a lookalike audience. See [build-a-search-term-seeded-audience.md](../../using-ds-1/agents/build-a-search-term-seeded-audience.md "mention").
 
 Prefer a managed approach? Your Dstillery Client Services team can build this for you.
 
