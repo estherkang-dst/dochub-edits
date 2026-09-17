@@ -13,7 +13,7 @@ If you've ever planned a campaign, you know the drill. You start with a goal in 
 **DS-1 closes that gap.** It's an agentic advertising platform: an AI agent that handles the entire audience buying experience, from planning to discovery to activation. The way you talk to it is the same way you'd describe your campaign to a colleague: **in plain language.**
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2026-07-16 at 1.25.06 PM.png" alt="DS-1 campaign planning interface" width="100%"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2026-07-16 at 1.25.06 PM.png" alt="DS-1 campaign planning interface" width="100%"><figcaption></figcaption></figure>
 
 ### How it works
 
@@ -68,5 +68,5 @@ The audience buying process usually has a lot of moving parts, and a lot of them
 So instead of asking "how do I build this audience," you get to ask the better question: "who do I actually want to reach, and what do I want to happen next?" DS-1 handles the rest.
 
 {% hint style="success" %}
-**Now that you know what DS-1 is**, the natural next step is seeing what an agentic advertising platform can do for you day-to-day. From audience planning and discovery to activation, it takes a lot off your plate. **Let's dig into the Getting started section in the next lesson.**
+**Now that you know what DS-1 is**, proceed to the Logging in to DS-1 section to set up your access and begin exploring the platfor
 {% endhint %}

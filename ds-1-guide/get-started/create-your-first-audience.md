@@ -85,6 +85,3 @@ Open **History** to find earlier conversations. Use the search bar to locate a c
 {% endstep %}
 {% endstepper %}
 
-**Keep exploring**
-
-Learn how DS-1 protects and handles your data in [Privacy and Data Concerns](../../ds-1-foundations/privacy-and-data.md).
