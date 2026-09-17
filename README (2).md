@@ -9,13 +9,19 @@ icon: footsteps
 
 DS-1 is Dstillery's agentic advertising platform. Describe your campaign goal in plain language to find, build, and activate the right audience.
 
-Start with the essentials, then choose the path that fits your campaign.
+Start with DS-1, choose an agent, then build and activate your audience.
 
 {% embed url="https://www.youtube.com/watch?v=A6QN259qBKg&feature=youtu.be" %}
 
 {% hint style="success" %}
-**New to DS-1?** Follow the four steps below in order. Most teams can move from a campaign idea to an activation-ready audience in one working session.
+**New to DS-1?** Follow the three steps below in order. Your agent stays with you from campaign brief to activation.
 {% endhint %}
+
+First time here? Set up your DS-1 access before you begin.
+
+{% content-ref url="using-ds-1/get-started/getting-started.md" %}
+[getting-started.md](using-ds-1/get-started/getting-started.md)
+{% endcontent-ref %}
 
 {% stepper %}
 {% step %}
@@ -29,53 +35,29 @@ See how DS-1 turns plain-language goals into campaign-ready audiences.
 {% endstep %}
 
 {% step %}
-### Build your first audience
+### Choose an agent
 
-Use the guided quick start when you are ready to create an audience.
+Agents are how you discover, build, analyze, and optimize audiences in DS-1. Choose the agent that matches your campaign signal or goal.
 
-{% content-ref url="using-ds-1/get-started/create-your-first-audience.md" %}
-[create-your-first-audience.md](using-ds-1/get-started/create-your-first-audience.md)
+{% content-ref url="using-ds-1/agents/" %}
+[agents](using-ds-1/agents/)
 {% endcontent-ref %}
 {% endstep %}
 
 {% step %}
-### Activate it
+### Build and activate
 
-Choose programmatic or social activation after you have an audience.
+Use your selected agent to build the audience. Then send it to the right activation destination.
+
+{% content-ref url="using-ds-1/get-started/create-your-first-audience.md" %}
+[create-your-first-audience.md](using-ds-1/get-started/create-your-first-audience.md)
+{% endcontent-ref %}
 
 {% content-ref url="using-ds-1/get-started/activation/" %}
 [activation](using-ds-1/get-started/activation/)
 {% endcontent-ref %}
 {% endstep %}
 {% endstepper %}
-
-### Need a different starting point?
-
-{% tabs %}
-{% tab title="I have a campaign brief" %}
-Turn your goal into a recommendation, then refine it with an agent.
-
-{% content-ref url="using-ds-1/agents/build-or-refine-an-audience-brief.md" %}
-[build-or-refine-an-audience-brief.md](using-ds-1/agents/build-or-refine-an-audience-brief.md)
-{% endcontent-ref %}
-{% endtab %}
-
-{% tab title="I know my seed signal" %}
-Build from domains, search terms, products, or customer data.
-
-{% content-ref url="using-ds-1/agents/" %}
-[agents](using-ds-1/agents/)
-{% endcontent-ref %}
-{% endtab %}
-
-{% tab title="I need an audience now" %}
-Find a ready-to-activate option for your campaign.
-
-{% content-ref url="using-ds-1/agents/find-prebuilt-audiences.md" %}
-[find-prebuilt-audiences.md](using-ds-1/agents/find-prebuilt-audiences.md)
-{% endcontent-ref %}
-{% endtab %}
-{% endtabs %}
 
 ### Set up your workspace
 
