@@ -25,21 +25,21 @@
 * [Insights](using-ds-1/insights.md)
 * [Projects](using-ds-1/projects.md)
 
-## Data & Audiences
+## Data & Audience products
 
-* [Data and audiences](data-and-audiences/data-and-audiences/README.md)
-  * [Dstillery data & DS-1: how they fit together](data-and-audiences/data-and-audiences/dstillery-data-and-ds-1-how-they-fit-together.md)
-  * [How our multimodal AI works](data-and-audiences/data-and-audiences/how-our-multimodal-ai-works.md)
-  * [Our data sources](data-and-audiences/data-and-audiences/our-data-sources.md)
-* [Audience products](data-and-audiences/audiences/README.md)
-  * [Custom AI audiences](data-and-audiences/audiences/custom-ai-audiences.md)
-  * [Custom built audiences](data-and-audiences/audiences/custom-built-audiences.md)
-  * [Custom search lookalikes](data-and-audiences/audiences/custom-search-lookalikes.md)
-  * [Retail purchase intent audiences](data-and-audiences/audiences/retail-purchase-intent-audiences.md)
-  * [Pre-built audiences](data-and-audiences/audiences/pre-built-audiences.md)
-  * [CTV-optimized audiences](data-and-audiences/audiences/ctv-optimized-audiences.md)
-  * [Custom patient targeting](data-and-audiences/audiences/custom-patient-targeting.md)
-  * [Pricing](data-and-audiences/audiences/pricing.md)
+* [Data and audiences](data-and-audience-products/data-and-audiences/README.md)
+  * [Dstillery data & DS-1: how they fit together](data-and-audience-products/data-and-audiences/dstillery-data-and-ds-1-how-they-fit-together.md)
+  * [How our multimodal AI works](data-and-audience-products/data-and-audiences/how-our-multimodal-ai-works.md)
+  * [Our data sources](data-and-audience-products/data-and-audiences/our-data-sources.md)
+* [Audience products](data-and-audience-products/audiences/README.md)
+  * [Custom AI audiences](data-and-audience-products/audiences/custom-ai-audiences.md)
+  * [Custom built audiences](data-and-audience-products/audiences/custom-built-audiences.md)
+  * [Custom search lookalikes](data-and-audience-products/audiences/custom-search-lookalikes.md)
+  * [Retail purchase intent audiences](data-and-audience-products/audiences/retail-purchase-intent-audiences.md)
+  * [Pre-built audiences](data-and-audience-products/audiences/pre-built-audiences.md)
+  * [CTV-optimized audiences](data-and-audience-products/audiences/ctv-optimized-audiences.md)
+  * [Custom patient targeting](data-and-audience-products/audiences/custom-patient-targeting.md)
+  * [Pricing](data-and-audience-products/audiences/pricing.md)
 
 ***
 
