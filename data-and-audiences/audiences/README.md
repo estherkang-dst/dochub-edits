@@ -6,7 +6,7 @@ icon: people-group
 
 # Audience products
 
-Turn a campaign brief into an audience ready to activate. Start with the signal that best represents your customer or goal.
+Turn a campaign brief into an audience ready to activate. Start with the seed that best represents your customer or goal.
 
 {% hint style="info" %}
 **Custom audiences use Dstillery’s multimodal AI.** Models are delivered within 24 hours, refresh every 24 hours, and support flexible activation.
@@ -14,7 +14,7 @@ Turn a campaign brief into an audience ready to activate. Start with the signal 
 
 ### Choose an audience product
 
-Choose the path that matches your available signal.
+Choose the path that matches your available seed.
 
 * **Customer or conversion data:** Build a [custom-ai-audiences.md](custom-ai-audiences.md "mention") from CRM lists, site visitors, pixels, or conversion logs.
 * **A domain, keyword, product, or existing audience:** Build a [custom-built-audiences.md](custom-built-audiences.md "mention").
@@ -22,7 +22,7 @@ Choose the path that matches your available signal.
 
 ### Choose a specialized audience
 
-Use a purpose-built audience when the campaign depends on a specific channel or intent signal.
+Use a purpose-built audience when the campaign depends on a specific channel or intent seed.
 
 * **Search intent:** [custom-search-lookalikes.md](custom-search-lookalikes.md "mention") uses search intent as the seed.
 * **Retail and CPG:** [retail-purchase-intent-audiences.md](retail-purchase-intent-audiences.md "mention") uses purchase signals as the seed.
