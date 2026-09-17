@@ -13,7 +13,7 @@ Dstillery uses opted-in search panel data and ID-free technology. It identifies 
 
 Use DS-1 to select search terms and build a lookalike audience. See [build-a-search-term-seeded-audience.md](../../ds-1-guide/agents/build-a-search-term-seeded-audience.md "mention").
 
-Prefer a managed approach? Your Dstillery Client Services team can build any of these for you.
+Prefer a managed approach? Your Dstillery Client Services team can build this for you.
 
 ### Why it's different
 
