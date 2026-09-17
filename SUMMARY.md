@@ -4,7 +4,7 @@
 
 * [Get started](README.md)
   * [DS-1 overview](ds-1/get-started/product-overview.md)
-  * [Creating an account](ds-1/get-started/getting-started.md)
+  * [First-time access & sign-in](ds-1/get-started/getting-started.md)
   * [Quick start](ds-1/get-started/create-your-first-audience.md)
   * [Activation](ds-1/get-started/activation/README.md)
     * [Programmatic (DSPs / SSPs)](ds-1/get-started/activation/programmatic-dsps-ssps.md)
