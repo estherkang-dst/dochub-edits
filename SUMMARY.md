@@ -20,7 +20,7 @@
   * [Analyze predictive lift scores](using-ds-1/agents/analyze-predictive-lift-scores.md)
   * [Create a pixel](using-ds-1/agents/create-a-pixel.md)
   * [Partnership Audience Search](using-ds-1/agents/partnership-audience-search.md)
-  * [LiveRamp Data Marketplace](using-ds-1/agents/liveramp-data-marketplace.md)
+  * [LiveRamp data marketplace](using-ds-1/agents/liveramp-data-marketplace.md)
   * [Campaign Optimization (Coming Soon)](using-ds-1/agents/campaign-optimization-coming-soon.md)
 * [Insights](using-ds-1/insights.md)
 * [Projects](using-ds-1/projects.md)
