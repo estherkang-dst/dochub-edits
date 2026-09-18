@@ -11,7 +11,7 @@
   * [Activation](using-ds-1/get-started/activation/README.md)
     * [Programmatic (DSPs / SSPs)](using-ds-1/get-started/activation/programmatic-dsps-ssps.md)
     * [Social](using-ds-1/get-started/activation/social.md)
-* [Using Agents](using-ds-1/agents/README.md)
+* [Using agents](using-ds-1/agents/README.md)
   * [Find prebuilt audiences](using-ds-1/agents/find-prebuilt-audiences.md)
   * [Build or refine an audience brief](using-ds-1/agents/build-or-refine-an-audience-brief.md)
   * [Build a domain seeded audience](using-ds-1/agents/build-a-domain-seeded-audience.md)
@@ -27,7 +27,7 @@
 
 ## Data & Audience products
 
-* [Data and audiences](data-and-audience-products/data-and-audiences/README.md)
+* [Data and audiences overview](data-and-audience-products/data-and-audiences/README.md)
   * [Dstillery data & DS-1: how they fit together](data-and-audience-products/data-and-audiences/dstillery-data-and-ds-1-how-they-fit-together.md)
   * [How our multimodal AI works](data-and-audience-products/data-and-audiences/how-our-multimodal-ai-works.md)
   * [Our data sources](data-and-audience-products/data-and-audiences/our-data-sources.md)
