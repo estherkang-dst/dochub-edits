@@ -4,7 +4,7 @@ description: >-
   from the data it collects.
 ---
 
-# Create a pixel
+# 🎯 Create a pixel
 
 ## What a pixel does
 
