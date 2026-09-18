@@ -28,7 +28,7 @@
 ## Data & Audience products
 
 * [Data and audiences overview](data-and-audience-products/data-and-audiences/README.md)
-  * [Dstillery data & DS-1: how they fit together](data-and-audience-products/data-and-audiences/dstillery-data-and-ds-1-how-they-fit-together.md)
+  * [Our data & DS-1: how they fit together](data-and-audience-products/data-and-audiences/dstillery-data-and-ds-1-how-they-fit-together.md)
   * [How our multimodal AI works](data-and-audience-products/data-and-audiences/how-our-multimodal-ai-works.md)
   * [Our data sources](data-and-audience-products/data-and-audiences/our-data-sources.md)
 * [Audience products](data-and-audience-products/audiences/README.md)
