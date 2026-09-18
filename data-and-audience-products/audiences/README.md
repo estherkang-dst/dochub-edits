@@ -27,7 +27,7 @@ Use a purpose-built audience when the campaign depends on a specific channel or 
 * **CTV:** [ctv-optimized-audiences.md](ctv-optimized-audiences.md "mention") provides models built for CTV campaigns.
 * **Healthcare and pharma:** [custom-patient-targeting.md](custom-patient-targeting.md "mention") uses medical claims or patient-search seeds.
 
-### From signal to activation
+### From seed to activation
 
 Most custom audiences start with a seed. It can include first-party data, a domain, keywords, products, purchase signals, or healthcare signals.
 
