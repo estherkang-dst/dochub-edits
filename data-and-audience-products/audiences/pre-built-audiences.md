@@ -12,7 +12,7 @@ Pre-built Audiences give you instant access to precise, ready-to-activate target
 
 Use DS-1 to search the catalog in plain language and syndicate audiences to your DSP. See [find-prebuilt-audiences.md](../../using-ds-1/agents/find-prebuilt-audiences.md "mention").
 
-Prefer a managed approach? Your Dstillery Client Services team can set this up for you.
+Available self-serve via DS-1, or fully managed through your Dstillery Client Services team.
 
 ### Why it's different
 

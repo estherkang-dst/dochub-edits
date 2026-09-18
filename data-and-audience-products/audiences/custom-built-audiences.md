@@ -16,7 +16,7 @@ Use the DS-1 agent that matches your seed:
 * [build-a-search-term-seeded-audience.md](../../using-ds-1/agents/build-a-search-term-seeded-audience.md "mention") for search terms.
 * [build-a-purchase-intent-audience.md](../../using-ds-1/agents/build-a-purchase-intent-audience.md "mention") for retail products.
 
-Prefer a managed approach? Your Dstillery Client Services team can build any of these for you.
+Available self-serve via DS-1, or fully managed through your Dstillery Client Services team.
 
 ### Why it's different
 

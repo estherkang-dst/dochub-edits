@@ -14,7 +14,7 @@ Unlike on-site retail media, which is limited to retailer environments, these au
 
 Use DS-1 to choose product seeds and build a purchase intent audience. See [build-a-purchase-intent-audience.md](../../using-ds-1/agents/build-a-purchase-intent-audience.md "mention").
 
-Prefer a managed approach? Your Dstillery Client Services team can build this for you.
+Available self-serve via DS-1, or fully managed through your Dstillery Client Services team.
 
 ### Why it's different
 
