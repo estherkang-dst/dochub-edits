@@ -56,7 +56,7 @@ The audience is ready for DSP activation. It refreshes every 24 hours.
 {% endstep %}
 {% endstepper %}
 
-This two-layer process powers most Dstillery audience products. Some products add inputs for their use case, including search panel data for Custom Search Lookalikes, medical claims for Custom Patient Targeting, and partner data for category-specific segments. The same modeling approach applies across products, with audiences refreshing every 24 hours.
+This two-layer process powers most Dstillery audience products. Some products add inputs that complement our [our-data-sources.md](our-data-sources.md "mention"). These include search panel data for [custom-search-lookalikes.md](../audiences/custom-search-lookalikes.md "mention"), medical claims for [custom-patient-targeting.md](../audiences/custom-patient-targeting.md "mention"), and partner data for category-specific segments. The same modeling approach applies across products, with audiences refreshing every 24 hours.
 
 ### Where DS-1 comes in
 
