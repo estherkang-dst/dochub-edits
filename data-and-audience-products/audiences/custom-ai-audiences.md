@@ -34,7 +34,7 @@ Dstillery combines all of your data into one predictive model. It uses real beha
 {% step %}
 #### Prepare the seed
 
-First-party seed data can include site visitors, conversion pixels, or campaign logs. [create-a-pixel.md](../../using-ds-1/agents/create-a-pixel.md "mention") in DS-1 to collect site-visitor and conversion signals. Work with Dstillery Client Services for managed setup.
+First-party seed data can include site visitors, conversion pixels, or campaign logs. Set up a [create-a-pixel.md](../../using-ds-1/agents/create-a-pixel.md "mention") in DS-1. It collects site-visitor and conversion signals. Work with Dstillery Client Services for managed setup.
 
 CRM lists require Client Services for matching and ingestion. Dstillery requires at least 1,000 seeds to build a predictive model.
 {% endstep %}
