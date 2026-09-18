@@ -12,7 +12,7 @@ Custom AI Audiences solve the problem of underutilized first-party data. Instead
 
 The model learns from your actual customers, not generic demographic proxies. It scores 400M+ devices daily to find people who look and behave like them.
 
-Prefer a managed approach? Your Dstillery Client Services team can prepare and ingest your seed.
+Your seed can include site visitors, conversion pixels, or campaign logs. Use DS-1 to create a pixel that collects site-visitor and conversion signals. Prefer a managed approach? Client Services can prepare your seed, manage pixel setup, and ingest CRM lists.
 
 ### Why it's different
 
