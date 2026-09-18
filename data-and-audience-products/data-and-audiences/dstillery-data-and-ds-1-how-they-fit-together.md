@@ -2,7 +2,7 @@
 description: See how consented panel data and website signals become targetable audiences.
 ---
 
-# Dstillery data & DS-1: how they fit together
+# Our data & DS-1: how they fit together
 
 {% hint style="success" %}
 ## Signals in. Audiences out.
@@ -55,6 +55,8 @@ The model identifies devices showing comparable patterns.
 The audience is ready for DSP activation. It refreshes every 24 hours.
 {% endstep %}
 {% endstepper %}
+
+This two-layer process powers most Dstillery audience products. Some products add inputs for their use case, including search panel data for Custom Search Lookalikes, medical claims for Custom Patient Targeting, and partner data for category-specific segments. The same modeling approach applies across products, with audiences refreshing every 24 hours.
 
 ### Where DS-1 comes in
 
