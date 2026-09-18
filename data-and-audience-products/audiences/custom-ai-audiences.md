@@ -12,6 +12,8 @@ Custom AI Audiences solve the problem of underutilized first-party data. Instead
 
 The model learns from your actual customers, not generic demographic proxies. It scores 400M+ devices daily to find people who look and behave like them.
 
+Prefer a managed approach? Your Dstillery Client Services team can prepare and ingest your seed.
+
 ### Why it's different
 
 {% columns %}
@@ -34,9 +36,9 @@ Dstillery combines all of your data into one predictive model. It uses real beha
 {% step %}
 #### Prepare the seed
 
-First-party seed data can include site visitors, conversion pixels, or campaign logs. Set up a [create-a-pixel.md](../../using-ds-1/agents/create-a-pixel.md "mention") in DS-1. It collects site-visitor and conversion signals. Work with Dstillery Client Services for managed setup.
+First-party seed data can include site visitors, conversion pixels, or campaign logs. For a DS-1 workflow, set up a [create-a-pixel.md](../../using-ds-1/agents/create-a-pixel.md "mention"). It collects site-visitor and conversion signals.
 
-CRM lists require Client Services for matching and ingestion. Dstillery requires at least 1,000 seeds to build a predictive model.
+Client Services can manage pixel setup and seed preparation. CRM lists require Client Services for matching and ingestion. Dstillery requires at least 1,000 seeds to build a predictive model.
 {% endstep %}
 
 {% step %}
