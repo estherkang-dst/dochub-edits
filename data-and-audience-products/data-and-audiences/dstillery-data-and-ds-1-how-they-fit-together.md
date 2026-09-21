@@ -90,6 +90,20 @@ The audience is packaged for DSP activation. Each device is rescored every 24 ho
 {% endstep %}
 {% endstepper %}
 
+### Where this shows up
+
+This workflow powers Dstillery's core audience products:
+
+* Custom AI audiences
+* Custom built audiences
+* Custom search lookalikes
+* Retail purchase intent audiences
+* Pre-built audiences
+* CTV-optimized audiences
+* Custom patient targeting
+
+Some products use specialized partner signals more heavily, depending on the category. The underlying model and daily refresh cycle remain the same.
+
 ### Where DS-1 comes in
 
 DS-1 turns this intelligence into an audience on demand. Start with an objective, a seed, or an existing audience.
