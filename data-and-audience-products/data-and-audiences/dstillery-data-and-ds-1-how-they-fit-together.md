@@ -7,42 +7,74 @@ description: >-
 # Our data & DS-1: how they fit together
 
 {% hint style="success" %}
-Dstillery combines consented journeys, website activity, and specialized partner signals. One layer teaches intent. The other finds it at scale.
+Dstillery combines consented user journeys, broad website activity, and specialized partner signals. One layer teaches intent. The other finds it at scale.
 {% endhint %}
 
-### The two data layers
+### The two core data layers
 
 {% columns %}
 {% column %}
-#### 1. Opted-in panel data teaches
+#### 1. Opted-in panel data teaches intent
 
-About 2 million fully consented users reveal the journeys behind decisions.
+About 2 million fully consented users reveal the journeys behind consumer decisions.
 
-Their website visits, actions, and behaviors train the model. This data never targets people directly.
+Their cross-site visits, actions, and behaviors train the model.
+
+This data is used strictly for model training. It never targets people directly.
 {% endcolumn %}
 
 {% column %}
-#### 2. Website visitation data reaches
+#### 2. Website visitation data reaches at scale
 
-Website activity spans web and mobile behavior across about 400 million devices.
+About 400 million devices capture web and mobile behavior across billions of daily events.
 
-It comes from bidstream partners, SSPs, exchanges, and web publishing tools. These include ad, commenting, and sharing widgets.
+This data comes from bidstream partners, SSPs, exchanges, and web publishing tools. These include ad, commenting, and sharing widgets.
 
-This dataset captures billions of daily events. The model uses it to find devices showing learned intent patterns.
+The model uses this dataset to find devices showing learned intent patterns.
 {% endcolumn %}
 {% endcolumns %}
 
 **Panel data teaches intent. Website activity makes it actionable at scale.**
 
-For a travel campaign, panel journeys might show future bookers comparing reviews and revisiting flight options. Website activity then identifies devices with comparable behavior.
+For a travel campaign, panel journeys might reveal future bookers comparing reviews before checking flight options. Website activity then identifies devices showing those pre-conversion behaviors.
 
-### From behavior to activation
+### Specialized enrichment signals
+
+Specialized partner inputs add category-specific depth to the core behavioral engine.
+
+| Specialized signal | Primary use case        |
+| ------------------ | ----------------------- |
+| NielsenIQ/GfK      | CPG and auto            |
+| PurpleLab          | Healthcare              |
+| ScreenEngine       | Media and entertainment |
+| Resonate           | Consumer insights       |
+| Emporia            | B2B                     |
+
+The underlying model and daily refresh cycle remain the same across specialized inputs.
+
+### The multimodal AI connection
+
+These data layers form the behavioral foundation of Dstillery's multimodal AI. The model combines behavioral journeys with language-derived insights and specialized partner signals to understand intent more completely.
+
+Learn how these signals work together in [how-our-multimodal-ai-works.md](how-our-multimodal-ai-works.md "mention").
+
+### From signal to activation
+
+Start with the seed signal you already have:
+
+* First-party data or CRM lists
+* Brand or competitor domains
+* Search terms or keywords
+* In-market behavioral signals
+* Retail purchase intent
+
+Then the model activates it:
 
 {% stepper %}
 {% step %}
 #### Learn the journey
 
-The model observes sequences, not isolated page visits. It recognizes the difference between casual interest and meaningful consideration.
+The model observes sequential behaviors. It distinguishes genuine consideration from casual browsing.
 {% endstep %}
 
 {% step %}
@@ -54,68 +86,26 @@ Website visitation data identifies devices across the open web showing comparabl
 {% step %}
 #### Deliver the audience
 
-The audience is ready for DSP activation. Each device is rescored against the model every 24 hours.
+The audience is packaged for DSP activation. Each device is rescored every 24 hours.
 {% endstep %}
 {% endstepper %}
-
-This two-layer process powers most Dstillery audience products. Some products add specialized inputs on top of it. The underlying model and daily refresh stay the same across all of them.
-
-### The multimodal AI connection
-
-These data layers are the behavioral foundation of Dstillery's multimodal AI. The model combines behavioral journeys with language-derived insights and specialized partner signals to understand intent more completely.
-
-Learn how these signals work together in [how-our-multimodal-ai-works.md](how-our-multimodal-ai-works.md "mention").
-
-### Where this shows up
-
-This core workflow supports Dstillery audience products. Some products also use specialized inputs or partner data.
-
-* [custom-ai-audiences.md](../audiences/custom-ai-audiences.md "mention")
-* [custom-built-audiences.md](../audiences/custom-built-audiences.md "mention")
-* [custom-search-lookalikes.md](../audiences/custom-search-lookalikes.md "mention")
-* [retail-purchase-intent-audiences.md](../audiences/retail-purchase-intent-audiences.md "mention")
-* [pre-built-audiences.md](../audiences/pre-built-audiences.md "mention")
-* [ctv-optimized-audiences.md](../audiences/ctv-optimized-audiences.md "mention")
-* [custom-patient-targeting.md](../audiences/custom-patient-targeting.md "mention")
-
-### Specialized partner signals
-
-| Partner       | Use case                |
-| ------------- | ----------------------- |
-| NielsenIQ/GfK | CPG and auto            |
-| PurpleLab     | Healthcare              |
-| ScreenEngine  | Media and entertainment |
-| Resonate      | Consumer insights       |
-| Emporia       | B2B                     |
-
-### Audience seed inputs
-
-DS-1 can begin with the signal you already have:
-
-* First-party data
-* A domain
-* Search terms or keywords
-* Behavioral signals
-* Retail purchase intent
 
 ### Where DS-1 comes in
 
 DS-1 turns this intelligence into an audience on demand. Start with an objective, a seed, or an existing audience.
 
-Build it yourself in DS-1, or bring your goal to the Dstillery team. Both paths use the same platform and model.
-
-DS-1 gives you a self-serve path into the same modeling workflow.
+Build it yourself in DS-1, or bring your goal to the Dstillery team. Both paths use the same platform, underlying model, and scoring workflow. DS-1 gives you direct control over the workflow.
 
 ### Data principles
 
 {% hint style="success" %}
-**Built for your brand.** Each campaign uses a custom model, not a generic shared model.
+**Built for your brand.** Each campaign uses a custom model, not a generic shared audience pool.
 
-**Current by design.** Custom audiences refresh every 24 hours.
+**Current by design.** Custom audiences refresh and rescore every 24 hours.
 
-**Tuned for performance and scale.** Audiences are ranked against Dstillery’s device universe for campaign goals.
+**Tuned for scale.** Audiences are ranked against Dstillery’s full device universe to optimize campaign outcomes.
 {% endhint %}
 
 ### Responsible data use
 
-Dstillery uses data to model intent, not to target a known individual. See the [Dstillery Privacy Policy](https://dstillery.com/privacy-policy/) for data handling and privacy practices.
+Dstillery models behavioral intent to target patterns, not known individuals. See the [Dstillery Privacy Policy](https://dstillery.com/privacy-policy/) for data handling and compliance practices.
