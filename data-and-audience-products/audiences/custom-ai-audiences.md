@@ -12,7 +12,7 @@ Custom AI Audiences solve the problem of underutilized first-party data. Instead
 
 The model learns from your actual customers, not generic demographic proxies. It scores 400M+ devices daily to find people who look and behave like them.
 
-Your seed can include site visitors, conversion pixels, or campaign logs. Use DS-1 to [create a pixel](../../using-ds-1/agents/create-a-pixel.md) that collects site-visitor and conversion signals. These methods support DS-1 self-service or managed service.
+Your seed can include site visitors, conversion pixels, e-mail lists or campaign logs. Use DS-1 to [create a pixel](../../using-ds-1/agents/create-a-pixel.md) that collects site-visitor and conversion signals. These methods support DS-1 self-service or managed service.
 
 Email and CRM lists require managed service through your Dstillery Client Services team.
 
