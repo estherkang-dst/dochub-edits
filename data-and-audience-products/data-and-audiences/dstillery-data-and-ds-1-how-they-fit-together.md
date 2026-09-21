@@ -94,13 +94,13 @@ The audience is packaged for DSP activation. Each device is rescored every 24 ho
 
 This workflow powers Dstillery's core audience products:
 
-* Custom AI audiences
-* Custom built audiences
-* Custom search lookalikes
-* Retail purchase intent audiences
-* Pre-built audiences
-* CTV-optimized audiences
-* Custom patient targeting
+* [custom-ai-audiences.md](../audiences/custom-ai-audiences.md "mention")
+* [custom-built-audiences.md](../audiences/custom-built-audiences.md "mention")
+* [custom-search-lookalikes.md](../audiences/custom-search-lookalikes.md "mention")
+* [retail-purchase-intent-audiences.md](../audiences/retail-purchase-intent-audiences.md "mention")
+* [pre-built-audiences.md](../audiences/pre-built-audiences.md "mention")
+* [ctv-optimized-audiences.md](../audiences/ctv-optimized-audiences.md "mention")
+* [custom-patient-targeting.md](../audiences/custom-patient-targeting.md "mention")
 
 Some products use specialized partner signals more heavily, depending on the category. The underlying model and daily refresh cycle remain the same.
 
