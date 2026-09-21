@@ -30,7 +30,6 @@
 * [Data and audiences overview](data-and-audience-products/data-and-audiences/README.md)
   * [Our data & DS-1: how they fit together](data-and-audience-products/data-and-audiences/dstillery-data-and-ds-1-how-they-fit-together.md)
   * [How our multimodal AI works](data-and-audience-products/data-and-audiences/how-our-multimodal-ai-works.md)
-  * [Our data sources](data-and-audience-products/data-and-audiences/our-data-sources.md)
 * [Audience products](data-and-audience-products/audiences/README.md)
   * [Custom AI audiences](data-and-audience-products/audiences/custom-ai-audiences.md)
   * [Custom built audiences](data-and-audience-products/audiences/custom-built-audiences.md)

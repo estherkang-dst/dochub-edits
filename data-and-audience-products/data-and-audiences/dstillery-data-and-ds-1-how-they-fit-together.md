@@ -60,6 +60,24 @@ The audience is ready for DSP activation. Each device is rescored against the mo
 
 This two-layer process powers most Dstillery audience products. Some products add specialized inputs on top of it. The underlying model and daily refresh stay the same across all of them.
 
+### The multimodal AI connection
+
+These data layers are the behavioral foundation of Dstillery's multimodal AI. The model combines behavioral journeys with language-derived insights and specialized partner signals to understand intent more completely.
+
+Learn how these signals work together in [how-our-multimodal-ai-works.md](how-our-multimodal-ai-works.md "mention").
+
+### Where this shows up
+
+This core workflow supports Dstillery audience products. Some products also use specialized inputs or partner data.
+
+* [custom-ai-audiences.md](../audiences/custom-ai-audiences.md "mention")
+* [custom-built-audiences.md](../audiences/custom-built-audiences.md "mention")
+* [custom-search-lookalikes.md](../audiences/custom-search-lookalikes.md "mention")
+* [retail-purchase-intent-audiences.md](../audiences/retail-purchase-intent-audiences.md "mention")
+* [pre-built-audiences.md](../audiences/pre-built-audiences.md "mention")
+* [ctv-optimized-audiences.md](../audiences/ctv-optimized-audiences.md "mention")
+* [custom-patient-targeting.md](../audiences/custom-patient-targeting.md "mention")
+
 ### Specialized partner signals
 
 | Partner       | Use case                |

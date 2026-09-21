@@ -52,7 +52,7 @@ Specialized signals add depth for CPG, healthcare, B2B, and retail use cases.
 {% endstep %}
 {% endstepper %}
 
-The first two signals form Dstillery’s core data layer. See [dstillery-data-and-ds-1-how-they-fit-together.md](dstillery-data-and-ds-1-how-they-fit-together.md "mention"). Review [our-data-sources.md](our-data-sources.md "mention") for partner details.
+The first two signals form Dstillery’s core data layer. See [dstillery-data-and-ds-1-how-they-fit-together.md](dstillery-data-and-ds-1-how-they-fit-together.md "mention"). Review [Broken link](/broken/pages/8LusTMAm2Em6E5bNxU1I "mention") for partner details.
 
 ### The shared language: embeddings
 

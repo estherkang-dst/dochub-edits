@@ -22,13 +22,13 @@ layout:
     visible: true
 ---
 
-# Data and audiences
+# Data and audiences overview
 
 Dstillery turns observed behavior into campaign-ready audience intelligence. One multimodal AI model learns from website activity, consented panel data, language-derived insights, and partner signals. DS-1 turns that intelligence into audiences you can activate.
 
 ### Explore the data story
 
-<table data-view="cards"><thead><tr><th>Topic</th><th data-card-target data-type="content-ref">Explore</th></tr></thead><tbody><tr><td><strong>Data foundations</strong><br>See how consented journeys and website activity create targetable audiences.</td><td><a href="dstillery-data-and-ds-1-how-they-fit-together.md">dstillery-data-and-ds-1-how-they-fit-together.md</a></td></tr><tr><td><strong>Multimodal AI</strong><br>See how behavioral, language, and partner signals work as one model.</td><td><a href="how-our-multimodal-ai-works.md">how-our-multimodal-ai-works.md</a></td></tr><tr><td><strong>Data sources</strong><br>Review the signals and partners behind Dstillery audiences.</td><td><a href="our-data-sources.md">our-data-sources.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th>Topic</th><th data-card-target data-type="content-ref">Explore</th></tr></thead><tbody><tr><td><strong>Data foundations</strong><br>See how consented journeys and website activity create targetable audiences.</td><td><a href="dstillery-data-and-ds-1-how-they-fit-together.md">dstillery-data-and-ds-1-how-they-fit-together.md</a></td></tr><tr><td><strong>Multimodal AI</strong><br>See how behavioral, language, and partner signals work as one model.</td><td><a href="how-our-multimodal-ai-works.md">how-our-multimodal-ai-works.md</a></td></tr><tr><td><strong>Data sources</strong><br>Review the signals and partners behind Dstillery audiences.</td><td><a href="/broken/pages/8LusTMAm2Em6E5bNxU1I">Broken link</a></td></tr></tbody></table>
 
 ### Build an audience
 
