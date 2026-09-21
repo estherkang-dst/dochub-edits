@@ -12,9 +12,9 @@ Custom AI Audiences solve the problem of underutilized first-party data. Instead
 
 The model learns from your actual customers, not generic demographic proxies. It scores 400M+ devices daily to find people who look and behave like them.
 
-Your seed can include site visitors, conversion pixels, or campaign logs. Use DS-1 to [create a pixel](../../using-ds-1/agents/create-a-pixel.md) that collects site-visitor and conversion signals.
+Your seed can include site visitors, conversion pixels, or campaign logs. Use DS-1 to [create a pixel](../../using-ds-1/agents/create-a-pixel.md) that collects site-visitor and conversion signals. These methods support DS-1 self-service or managed service.
 
-Available self-serve via DS-1, or fully managed through your Dstillery Client Services team.
+Email and CRM lists require managed service through your Dstillery Client Services team.
 
 ### Why it's different
 
@@ -38,9 +38,9 @@ Dstillery combines all of your data into one predictive model. It uses real beha
 {% step %}
 #### Prepare the seed
 
-First-party seed data can include site visitors, conversion pixels, or campaign logs. For a DS-1 workflow, set up a [create-a-pixel.md](../../using-ds-1/agents/create-a-pixel.md "mention"). It collects site-visitor and conversion signals.
+First-party seed data can include site visitors, conversion pixels, or campaign logs. These seeds support DS-1 self-service or managed service. For a DS-1 workflow, set up a [create-a-pixel.md](../../using-ds-1/agents/create-a-pixel.md "mention"). It collects site-visitor and conversion signals.
 
-Client Services can manage pixel setup and seed preparation. CRM lists require Client Services for matching and ingestion. Dstillery requires at least 1,000 seeds to build a predictive model.
+Client Services can manage pixel setup and seed preparation. Email and CRM lists require Client Services for matching and ingestion. Dstillery requires at least 1,000 seeds to build a predictive model.
 {% endstep %}
 
 {% step %}
@@ -72,7 +72,7 @@ One model powers every activation method, from user segments to custom bidding a
 
 ### Good fit if you
 
-* Have first-party data to work with. Set up site visitors, conversion pixels, and campaign logs in DS-1 or via managed service. Use Client Services for CRM lists.
+* Have first-party data to work with. Set up site visitors, conversion pixels, and campaign logs in DS-1 or via managed service. Use Client Services for email and CRM lists.
 * Are running prospecting campaigns and want to scale beyond retargeting.
 * Want your custom audience built from real behavioral patterns, not a generic lookalike.
 
