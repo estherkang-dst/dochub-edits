@@ -59,7 +59,4 @@ Learn how these signals work together in [dstillery-data-and-ds-1-how-they-fit-t
 The shared intelligence layer gives you flexibility in how you begin and where you deploy.
 
 1. **Flexible seed inputs:** Start with a keyword list, URL, product category, CRM list, CTV exposure, or plain-language brief.
-2. **Universal activation:** Deploy the resulting intelligence through **ID-based Custom AI Audiences, ID-free® contextual targeting, supply curation, or custom bidding strategies**.
-3. **Always fresh:** Custom predictive models reach your DSP within 24 hours. They re-score daily to help reduce data decay.
-
-Explore [custom-ai-audiences.md](../audiences/custom-ai-audiences.md "mention") for a predictive audience built from your first-party signals.
+2. **Always fresh:** Custom predictive models reach your DSP within 24 hours. They re-score daily to help reduce data decay.
