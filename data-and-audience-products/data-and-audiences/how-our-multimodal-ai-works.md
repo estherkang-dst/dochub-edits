@@ -60,3 +60,9 @@ The shared intelligence layer gives you flexibility in how you begin and where y
 
 1. **Flexible seed inputs:** Start with a keyword list, URL, product category, CRM list, CTV exposure, or plain-language brief.
 2. **Always fresh:** Custom predictive models reach your DSP within 24 hours. They re-score daily to help reduce data decay.
+
+### Key benefits
+
+* **Omni-channel consistency:** Build your audience model once. Deploy it across CTV, audio, display, and web without rebuilding segments.
+* **Higher precision and scale:** Evaluate cross-channel signals together to reach in-market buyers. Go beyond isolated keywords and cookies.
+* **Zero data decay:** Models train on live behavior, reach your DSP within 24 hours, and re-score every 24 hours.
