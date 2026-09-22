@@ -20,7 +20,7 @@ Traditional programmatic targeting treats these moments separately. Dstillery’
 
 ### The power of a shared data language
 
-DS-1 uses custom vector embeddings to map different data types into a shared intelligence layer. Keywords, web visits, CTV habits, and purchase data can then be evaluated together.
+Dstillery's Multimodal AI uses custom vector embeddings to map different data types into a shared intelligence layer. Keywords, web visits, CTV habits, and purchase data can then be evaluated together
 
 This produces a richer picture of people who are in-market for your brand.
 
