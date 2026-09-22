@@ -9,71 +9,57 @@ description: >-
 {% embed url="https://www.youtube.com/watch?v=3NKepKcsQKw&t" %}
 
 {% hint style="success" %}
-People search, watch, read, compare, and return. Dstillery’s multimodal AI connects those moments into one understanding of intent.
+**Build once. Activate across supported channels.**
 {% endhint %}
 
-**One model. More complete intent.** DS-1 reasons from the signals behind connected actions.
+### See the complete customer journey, not isolated channels
 
-### See the journey, not the channel
+Modern consumers move between channels. They search on mobile, read reviews on desktop, watch streaming TV, and buy in-store.
 
-Consider a coffee-maker purchase. Someone searches, visits a retailer, watches reviews, and later sees CTV advertising. Together, those actions reveal intent. The model learns their relationship over time.
+Traditional programmatic targeting treats these moments separately. Dstillery’s multimodal AI connects them into one understanding of audience intent.
 
-### What multimodal means
+### The power of a shared data language
 
-Multimodal means learning across different forms of information. Words carry meaning. Behaviors form sequences. The model connects them into one understanding of intent, rather than evaluating each signal alone.
+DS-1 uses custom vector embeddings to map different data types into a shared intelligence layer. Keywords, web visits, CTV habits, and purchase data can then be evaluated together.
 
-Like a driver considers speed, pedestrians, and road signs together, DS-1 considers signals together to understand intent.
+This produces a richer picture of people who are in-market for your brand.
 
-### Four signals. One intelligence layer.
+### Powered by four foundational signal pillars
 
 {% stepper %}
 {% step %}
-#### Website visitation data
+#### Web and mobile visitation
 
-Billions of daily behavioral events across more than 400 million devices reveal patterns at scale.
+Behavioral patterns across more than 400 million devices reveal intent at scale.
 {% endstep %}
 
 {% step %}
-#### Opted-in panel data
+#### Opted-in search and intent panels
 
-An opted-in panel of about 2 million users shows the behavior sequences that lead to real decisions, without relying on cookies or IDs.
+About 2 million privacy-safe users show the search and browsing sequences that lead to buying decisions.
 {% endstep %}
 
 {% step %}
-#### LLM-derived insights
+#### LLM and language intelligence
 
-Large language models connect concepts across signals. They can link CTV viewership to web browsing, or turn a written audience description into targetable patterns.
+Language models connect cross-channel relationships. They can link CTV viewing to web research or turn a written brief into targetable patterns.
 {% endstep %}
 
 {% step %}
-#### Partner data
+#### Enriched partner data
 
 Specialized signals add depth for CPG, healthcare, B2B, and retail use cases.
 {% endstep %}
 {% endstepper %}
 
-The first two signals form Dstillery’s core data layer. See [dstillery-data-and-ds-1-how-they-fit-together.md](dstillery-data-and-ds-1-how-they-fit-together.md "mention"). Review [Broken link](/broken/pages/8LusTMAm2Em6E5bNxU1I "mention") for partner details.
-
-### The shared language: embeddings
-
-Embeddings map different signals into a shared space of meaning. That space can connect a search term, CTV behavior, and a plain-language brief.
+Learn how these signals work together in [dstillery-data-and-ds-1-how-they-fit-together.md](dstillery-data-and-ds-1-how-they-fit-together.md "mention").
 
 ### Start anywhere. Activate everywhere.
 
-{% hint style="success" %}
-Multimodal learning lets the model begin with almost any useful input:
+The shared intelligence layer gives you flexibility in how you begin and where you deploy.
 
-* First-party data or a CRM list
-* A search keyword, URL, product page, or CTV exposure
-* A performance goal or plain-language audience brief
+1. **Flexible seed inputs:** Start with a keyword list, URL, product category, CRM list, CTV exposure, or plain-language brief.
+2. **Universal activation:** Deploy the resulting intelligence through **ID-based Custom AI Audiences, ID-free® contextual targeting, supply curation, or custom bidding strategies**.
+3. **Always fresh:** Custom predictive models reach your DSP within 24 hours. They re-score daily to help reduce data decay.
 
-It activates that same understanding through user segments, contextual targeting, curation, and custom bidding.
-{% endhint %}
-
-For a custom predictive audience, DS-1 builds the model and delivers it to your DSP within 24 hours. The model refreshes every 24 hours to keep the audience current.
-
-### The foundation for agentic advertising
-
-DS-1 uses multimodal understanding to reason across available signal types. It can turn a brief, seed, or observed behavior into an audience and activation strategy.
-
-Next, choose the right audience input in [Broken link](/broken/pages/B8SzmJyY8fWPSJR8CGyz "mention").
+Explore [custom-ai-audiences.md](../audiences/custom-ai-audiences.md "mention") for a predictive audience built from your first-party signals.
