@@ -64,5 +64,4 @@ The shared intelligence layer gives you flexibility in how you begin and where y
 ### Key benefits
 
 * **Omni-channel consistency:** Build your audience model once. Deploy it across CTV, audio, display, and web without rebuilding segments.
-* **Higher precision and scale:** Evaluate cross-channel signals together to reach in-market buyers. Go beyond isolated keywords and cookies.
 * **Zero data decay:** Models train on live behavior, reach your DSP within 24 hours, and re-score every 24 hours.
