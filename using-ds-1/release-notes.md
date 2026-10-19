@@ -6,17 +6,17 @@ description: A running log of what is new and improved in DS-1.
 
 ### October 19, 2026
 
-This release includes new audience-building workflows, project research, and usability improvements.
+This release includes new ways to build audiences, research in Projects, and usability improvements.
 
-### Highlights
+### New features
 
-#### Create deals in DS-1
+#### Create ID-free deals in DS-1
 
-Create deals directly in DS-1. Go to **Agents → Inventory Packages**, then enter the Deal ID. Fixed pricing is available.
+Create ID-free deals directly in DS-1. Go to **Agents → Inventory Packages**, then enter the Deal ID. Deals currently use fixed pricing.
 
 #### Build compound audiences in Agents
 
-Combine multiple audiences into one compound audience without leaving DS-1. The same audience-combination rules apply. Learn more in [Build and activate to a DSP or SSP](../ds-1-foundations/core-use-cases/build-and-activate-to-a-dsp-or-ssp.md).
+Combine multiple audiences into one compound audience without leaving DS-1.
 
 #### Sensitive category requests
 
@@ -26,7 +26,7 @@ After approval, you can build your audience. If your request is declined and you
 
 Learn more in [privacy-and-data.md](../resources/privacy-and-data.md "mention").
 
-### New and improved
+### Improvements
 
 #### Ask DS-1 for segment sizes
 
@@ -34,7 +34,7 @@ Ask DS-1 for an audience size directly in chat. Newly built audiences may need t
 
 #### Clickable status labels in Recent Activity
 
-Each audience in **Recent Activity** shows its build and syndication status. Select a status label to view syndication details or start a support ticket.
+Each audience in **Recent Activity** shows its build and syndication status. Select a status label to view syndication details.
 
 #### Notifications is now Inbox
 
