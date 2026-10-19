@@ -26,6 +26,10 @@ After approval, you can build your audience. If your request is declined and you
 
 Learn more in [privacy-and-data.md](../resources/privacy-and-data.md "mention").
 
+#### Brand research in Projects
+
+Projects can now search the web for brand information and surface competitors. DS-1 uses this context in every agent you run in the project. Learn more in [Projects](projects.md).
+
 ### Improvements
 
 #### Ask DS-1 for segment sizes
@@ -39,10 +43,6 @@ Each audience in **Recent Activity** shows its build and syndication status. Sel
 #### Notifications is now Inbox
 
 **Inbox** replaces **Notifications** in the bottom-left corner. It holds all communication between you and Dstillery, including sensitive-category requests.
-
-#### Brand research in Projects
-
-Projects can now search the web for brand information and surface competitors. DS-1 uses this context in every agent you run in the project. Learn more in [Projects](projects.md).
 
 #### Take a tour
 
