@@ -1,8 +1,10 @@
 ---
-description: Everything new in DS-1 through October 19, 2026.
+description: A running log of what is new and improved in DS-1.
 ---
 
-# October 2026
+# Release notes
+
+### October 2026
 
 Everything new in DS-1 through October 19, 2026.
 
@@ -22,7 +24,7 @@ Flag sensitive-category requests in DS-1. Our team reviews each request and send
 
 After approval, you can build your audience. If your request is declined and you still need it, contact your Dstillery team.
 
-Learn more in [privacy-and-data.md](../../../resources/privacy-and-data.md "mention").
+Learn more in [privacy-and-data.md](../resources/privacy-and-data.md "mention").
 
 ### New and improved
 

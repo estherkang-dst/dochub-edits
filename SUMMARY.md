@@ -22,10 +22,10 @@
   * [Partnership Audience Search](using-ds-1/agents/partnership-audience-search.md)
   * [LiveRamp data marketplace](using-ds-1/agents/liveramp-data-marketplace.md)
   * [Campaign Optimization (Coming Soon)](using-ds-1/agents/campaign-optimization-coming-soon.md)
-  * [Release notes](using-ds-1/agents/release-notes/README.md)
-    * [October 2026](using-ds-1/agents/release-notes/october-2026.md)
+  * [Release notes](using-ds-1/agents/release-notes.md)
 * [Insights](using-ds-1/insights.md)
 * [Projects](using-ds-1/projects.md)
+* [Release notes](using-ds-1/release-notes.md)
 
 ## Data & Audience products
 
