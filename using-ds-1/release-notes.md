@@ -4,7 +4,7 @@ description: A running log of what is new and improved in DS-1.
 
 # Release notes
 
-### October 19, 2026
+### October 2026
 
 This release includes new ways to build audiences, research in Projects, and usability improvements.
 
