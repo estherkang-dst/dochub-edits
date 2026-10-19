@@ -62,4 +62,4 @@ Purchase intent product seeds have been updated. They are current, and every lin
 
 ### Fixes
 
-* Audiences no longer appear stuck in **Building** after the build finishes.
+Audiences no longer appear stuck in **Building** after the build finishes.
