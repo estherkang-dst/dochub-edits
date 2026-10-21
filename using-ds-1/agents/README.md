@@ -25,6 +25,7 @@ Use these when you know the signal you want to model against.
 | [Build a domain seeded audience](build-a-domain-seeded-audience.md)       | Websites                              | Modeling the people who visit a known set of sites             |
 | [Build a search LAL audience](build-a-search-term-seeded-audience.md)     | Search terms                          | Reaching active intent as it happens                           |
 | [Build a purchase intent audience](build-a-purchase-intent-audience.md)   | Product signals                       | Shoppers in market for a specific category                     |
+| [Build a compound audience](build-compound-audience.md) | Existing audiences and websites | Combining segments with and / or logic and exclusions |
 
 ## Measure and instrument
 

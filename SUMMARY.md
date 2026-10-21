@@ -18,6 +18,7 @@
   * [Build a domain seeded audience](using-ds-1/agents/build-a-domain-seeded-audience.md)
   * [Build a search LAL audience](using-ds-1/agents/build-a-search-term-seeded-audience.md)
   * [Build a purchase intent audience](using-ds-1/agents/build-a-purchase-intent-audience.md)
+  * [Build a compound audience](using-ds-1/agents/build-compound-audience.md)
   * [Analyze predictive lift scores](using-ds-1/agents/analyze-predictive-lift-scores.md)
   * [Create a pixel](using-ds-1/agents/create-a-pixel.md)
   * [Partnership Audience Search](using-ds-1/agents/partnership-audience-search.md)
