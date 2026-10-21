@@ -21,7 +21,7 @@ The result builds as a single audience and syndicates like any other.
 
 ## Limits to know
 
-| | Limit |
+| Setting | Limit |
 | --- | --- |
 | Include groups per compound | 5 |
 | Segments per group | 50 |
