@@ -18,8 +18,9 @@ Use these when you do not yet know which audience you want.
 
 Use these when you know the signal you want to model against.
 
-| Agent                                                                     | Seed                                  | Best for                                                       |
-| ------------------------------------------------------------------------- | ------------------------------------- | -------------------------------------------------------------- |
+| Agent                                                                     | Seed                                                          | Best for                                                              |
+| ------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [Build targetable segments from any document](build-segments-from-any-document.md) | Any document: PDF, Word, PowerPoint, Excel, image, or email | Going from a client document to personas and audiences in four steps |
 | [Build or refine an audience brief](build-or-refine-an-audience-brief.md) | A brief, RFP, or campaign description | Turning a brief into a targeting plan before anything is built |
 | [Build a domain seeded audience](build-a-domain-seeded-audience.md)       | Websites                              | Modeling the people who visit a known set of sites             |
 | [Build a search LAL audience](build-a-search-term-seeded-audience.md)     | Search terms                          | Reaching active intent as it happens                           |
@@ -29,7 +30,7 @@ Use these when you know the signal you want to model against.
 
 | Agent                                                               | What it does                                                                                         |
 | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [Analyze predictive lift scores](analyze-predictive-lift-scores.md) | Ranks audiences by expected performance against a real conversion signal, before budget is committed |
+| [Analyze predictive lift scores](analyze-predictive-lift-scores.md) | Scores first-party, custom, and 3rd-party audiences against a pixel, before budget is committed |
 | [Create a pixel](create-a-pixel.md)                                 | Sets up the tracking tag that feeds first-party audiences and lift analysis                          |
 
 ## Around the agents

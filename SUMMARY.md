@@ -12,6 +12,7 @@
     * [Programmatic (DSPs / SSPs)](using-ds-1/get-started/activation/programmatic-dsps-ssps.md)
     * [Social](using-ds-1/get-started/activation/social.md)
 * [Using agents](using-ds-1/agents/README.md)
+  * [Build targetable segments from any document](using-ds-1/agents/build-segments-from-any-document.md)
   * [Find prebuilt audiences](using-ds-1/agents/find-prebuilt-audiences.md)
   * [Build or refine an audience brief](using-ds-1/agents/build-or-refine-an-audience-brief.md)
   * [Build a domain seeded audience](using-ds-1/agents/build-a-domain-seeded-audience.md)
