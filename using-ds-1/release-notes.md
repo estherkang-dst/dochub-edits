@@ -6,7 +6,7 @@ description: A running log of what is new and improved in DS-1.
 
 ### October 2026
 
-This release includes new ways to build audiences, research in Projects, and usability improvements.
+October brought new audience-building tools, richer Project research, campaign planning, and usability improvements.
 
 ### New features
 
@@ -64,11 +64,7 @@ Purchase intent product seeds have been updated. Use them to create purchase int
 
 Resolved an issue where audiences appeared stuck in **Building** after the build finished.
 
-### More October 2026 updates
-
-This release introduces the Planner, campaign optimization in Projects, and smarter audience recommendations.
-
-### New features
+#### Additional features
 
 #### Build targetable segments from any document
 
