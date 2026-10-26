@@ -63,3 +63,58 @@ Purchase intent product seeds have been updated. Use them to create purchase int
 ### Fixes
 
 Resolved an issue where audiences appeared stuck in **Building** after the build finished.
+
+### More October 2026 updates
+
+This release introduces the Planner, campaign optimization in Projects, and smarter audience recommendations.
+
+### New features
+
+#### Build targetable segments from any document
+
+The Planner lets you upload a document in any format. DS-1 analyzes it, builds personas, then turns them into audiences you can target and activate. Every claim links back to the source document.
+
+Find the Planner as the first recommended agent on Home, or under **Planning** in **Agents**.
+
+#### Campaign optimization in Projects
+
+A new **Campaign Optimization** tab in Projects covers campaign setup, audience selection, approval, live performance against your KPIs, and audience swaps. Learn more in [Projects](projects.md).
+
+#### Insights-first audience recommendations
+
+Audience recommendations, including those based on search keywords, now come from scored behavioral data. Recommendations lead with Insights-ranked audiences grouped into themes, followed by relevant audiences from outside data providers.
+
+This can surface strong audiences you might not have considered.
+
+### Improvements
+
+#### Audience Brief is now Audience Portfolio Explorer
+
+**Audience Brief** has been renamed **Audience Portfolio Explorer**. Use it when you have a brief or campaign goals and want recommended products you can edit, reorder, and export.
+
+Use the Planner when you're starting from a document.
+
+#### Chat previews in the sidebar
+
+Chat previews in the sidebar replace the **History** tab. Pin, delete, or add any chat to a project.
+
+#### How this works tour in every agent
+
+Every agent now includes a **How this works** tour that walks you through a populated canvas.
+
+#### Your company name on Home
+
+The Home greeting now shows your company or agency name.
+
+#### Delete marketers
+
+Open the **Marketer** dropdown at the top, then select **Create/Delete a marketer**. Deleting a marketer sets it to inactive. You'll be asked to confirm.
+
+#### Better seed domain suggestions
+
+Custom URL seed domain suggestions are refreshed, so links no longer lead to irrelevant or missing sites.
+
+### Fixes
+
+* Planner results load faster. Dstillery prebuilt audiences now appear first while LiveRamp audiences continue loading.
+* Topic refinement in the Insights agent now shows a single, consistent card.

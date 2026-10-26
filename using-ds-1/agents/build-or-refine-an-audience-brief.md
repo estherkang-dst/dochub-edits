@@ -73,7 +73,7 @@ Upload your audience taxonomy and DS-1 matches it against the campaign, returnin
 
 When the brief looks right, say **build them all** and DS-1 builds every recommendation as its own audience, or name the ones you want and it builds only those. Either way it reports which segments went out and which are still modeling.
 
-Builds land on the home page under **Recent Activity**. Syndicate from there; see [Build and activate to a DSP or SSP](../../ds-1-foundations/core-use-cases/build-and-activate-to-a-dsp-or-ssp.md) for reach sizes and destinations.
+Builds land on the home page under **Recent Activity**. Syndicate from there; see [Build and activate to a DSP or SSP](/broken/pages/J7m6rnc8bhxIhr9w92hx) for reach sizes and destinations.
 
 {% hint style="info" %}
 Working inside a project? The brief agent reads the project's attached files and instructions, so you do not have to re-upload the brief each session. See [Work in projects](../projects.md).

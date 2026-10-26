@@ -54,7 +54,7 @@ Builds land on the home page under **Recent Activity**.
 
 ### Step 4. Syndicate
 
-Syndicate from that row, choose a reach size, and the audience goes to your seat. For more details regarding this flow, see [Build and activate to a DSP or SSP](../../ds-1-foundations/core-use-cases/build-and-activate-to-a-dsp-or-ssp.md).
+Syndicate from that row, choose a reach size, and the audience goes to your seat. For more details regarding this flow, see [Build and activate to a DSP or SSP](/broken/pages/J7m6rnc8bhxIhr9w92hx).
 
 ## Looking up an audience's products
 
