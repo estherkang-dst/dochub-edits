@@ -6,7 +6,7 @@ description: A running log of what is new and improved in DS-1.
 
 ### October 2026
 
-October brought new audience-building tools, richer Project research, campaign planning, and usability improvements.
+October brought new audience-building tools, deep research, richer Project research, campaign planning, and usability improvements.
 
 ### New features
 
@@ -29,6 +29,26 @@ Learn more in [privacy-and-data.md](../resources/privacy-and-data.md "mention").
 #### Brand research in Projects
 
 Projects can now search the web for brand information and surface competitors. DS-1 uses this context in every agent you run in the project. Learn more in [Projects](projects.md).
+
+#### Build targetable segments from any document
+
+The Planner lets you upload a document in any format. DS-1 analyzes it, builds personas, then turns them into audiences you can target and activate. Every claim links back to the source document.
+
+Find the Planner as the first recommended agent on Home, or under **Planning** in **Agents**.
+
+#### Campaign optimization in Projects
+
+A new **Campaign Optimization** tab in Projects covers campaign setup, audience selection, approval, live performance against your KPIs, and audience swaps. Learn more in [Projects](projects.md).
+
+#### Insights-first audience recommendations
+
+Audience recommendations, including those based on search keywords, now come from scored behavioral data. Recommendations lead with Insights-ranked audiences grouped into themes, followed by relevant audiences from outside data providers.
+
+This can surface strong audiences you might not have considered.
+
+**Deep research for purchase intent**
+
+Use deep research to identify purchase-intent seeds through web research and review every step. Enable its toggle in [Build a purchase intent audience](agents/build-a-purchase-intent-audience.md) under **Agents → Planning**.
 
 ### Improvements
 
@@ -60,30 +80,6 @@ Each agent now shows rotating example prompts when you open it. Use them to get 
 
 Purchase intent product seeds have been updated. Use them to create purchase intent audiences from current product signals. Learn more in [Build a purchase intent audience](agents/build-a-purchase-intent-audience.md).
 
-### Fixes
-
-Resolved an issue where audiences appeared stuck in **Building** after the build finished.
-
-#### Additional features
-
-#### Build targetable segments from any document
-
-The Planner lets you upload a document in any format. DS-1 analyzes it, builds personas, then turns them into audiences you can target and activate. Every claim links back to the source document.
-
-Find the Planner as the first recommended agent on Home, or under **Planning** in **Agents**.
-
-#### Campaign optimization in Projects
-
-A new **Campaign Optimization** tab in Projects covers campaign setup, audience selection, approval, live performance against your KPIs, and audience swaps. Learn more in [Projects](projects.md).
-
-#### Insights-first audience recommendations
-
-Audience recommendations, including those based on search keywords, now come from scored behavioral data. Recommendations lead with Insights-ranked audiences grouped into themes, followed by relevant audiences from outside data providers.
-
-This can surface strong audiences you might not have considered.
-
-### Improvements
-
 #### Audience Brief is now Audience Portfolio Explorer
 
 **Audience Brief** has been renamed **Audience Portfolio Explorer**. Use it when you have a brief or campaign goals and want recommended products you can edit, reorder, and export.
@@ -110,7 +106,29 @@ Open the **Marketer** dropdown at the top, then select **Create/Delete a markete
 
 Custom URL seed domain suggestions are refreshed, so links no longer lead to irrelevant or missing sites.
 
+**Flexible reach sizes**
+
+You can now view different reach sizes in Audience Portfolio Explorer. Before sending audiences, you can choose a size beyond the standard one.
+
+**A cleaner Home screen**
+
+You now have a simpler Home layout and streamlined chat box. Use the plus button to add files, select agents or projects, and search the web.
+
+**More accurate Insights for unfamiliar sites**
+
+When a domain is not in our data, your Insights match by subject. Your audience signals stay on target automatically.
+
+**Requests resume after you pick a marketer**
+
+If you start without a marketer, DS-1 opens the marketer list and resumes after you choose one. You do not need to retype your request.
+
 ### Fixes
+
+Resolved an issue where audiences appeared stuck in **Building** after the build finished.
 
 * Planner results load faster. Dstillery prebuilt audiences now appear first while LiveRamp audiences continue loading.
 * Topic refinement in the Insights agent now shows a single, consistent card.
+
+**Pasted term lists**
+
+When you paste term lists in Audience Portfolio Explorer, they split into separate search terms. Press Escape to cancel an entry instead of saving it.
