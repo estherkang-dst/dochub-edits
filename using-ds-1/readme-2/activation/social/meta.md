@@ -6,25 +6,9 @@ description: >-
 
 # Meta
 
-## Activate on Meta
-
 Dstillery delivers your audiences to Meta through **LiveRamp**, our activation partner. Before the first delivery, your team gives LiveRamp reporting access to your Meta ad account. You do this once per ad account, and we handle delivery from there.
 
-{% columns %}
-{% column %}
-#### Set up once
-
-Give LiveRamp access to each Meta ad account where audiences will run.
-{% endcolumn %}
-
-{% column %}
-#### Activate with confidence
-
-We handle delivery. You target the delivered audiences in your ad sets.
-{% endcolumn %}
-{% endcolumns %}
-
-### From setup to launch
+### How it works
 
 1. **You connect LiveRamp.** Add LiveRamp as a partner on your ad account, using the steps below.
 2. **We set up delivery.** Dstillery connects delivery to your ad account and sends the audiences you approved.
