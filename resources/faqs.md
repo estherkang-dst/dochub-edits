@@ -65,3 +65,7 @@ Most clients start to see meaningful signal within the first two weeks of a live
 #### I syndicated an audience, but it is not showing in my DSP. What now?
 
 After DS-1 confirms syndication, allow time for your DSP's activation process. If segments still do not appear after that window, contact the Dstillery team.
+
+#### I'm activating in Meta, but my audience isn't showing. What now?
+
+Meta needs a one-time partner setup before delivery. Check the steps in [meta.md](../using-ds-1/readme-2/activation/social/meta.md "mention"). If everything checks out, contact your Dstillery team.

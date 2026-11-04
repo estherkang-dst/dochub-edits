@@ -4,6 +4,14 @@ description: A running log of what is new and improved in DS-1.
 
 # Release notes
 
+### November 2026
+
+### New features
+
+#### Activate audiences in Meta
+
+Deliver Dstillery audiences to Facebook and Instagram through LiveRamp. Learn more in [meta.md](readme-2/activation/social/meta.md "mention").
+
 ### October 2026
 
 October brought new audience-building tools, deep research, richer Project research, campaign planning, and usability improvements.

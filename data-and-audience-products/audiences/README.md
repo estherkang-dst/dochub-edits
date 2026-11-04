@@ -45,5 +45,6 @@ Put completed audiences to work through the option that fits your media plan.
 * **Contextual:** Score inventory in real time, beyond page keywords.
 * **Curated deals:** Activate private marketplace packages through SSP partners.
 * **Custom bidding algorithms:** Apply model intelligence to bid decisions.
+* **Social:** Deliver audiences to Meta through LiveRamp. See [meta.md](../../using-ds-1/readme-2/activation/social/meta.md "mention").
 
 Compare options and costs in [pricing.md](pricing.md "mention").

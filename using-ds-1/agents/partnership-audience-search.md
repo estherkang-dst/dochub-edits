@@ -24,7 +24,7 @@ These are ready-to-activate partner segments. Search, select, syndicate.
 Partner audiences are not resold third-party lists. Dstillery takes sector-specific partner data spanning CPG, healthcare, B2B, and retail and layers it into its multimodal AI engine, synthesizing it with real-time browsing, search intent, and CTV viewership across 400M+ devices to form one predictive model of intent.
 
 * **Rescored every 24 hours.** Every audience updates daily across 400M+ devices, so you are targeting behavior from yesterday rather than a profile built last quarter.
-* **Activate any way you buy.** User segments, curated PMP deals across 7 SSPs, custom bidding algorithms, predictive contextual, or social platforms such as Meta via LiveRamp. Key activations are moving to direct S3 integrations, cutting middleman syndication wait times.
+* **Activate any way you buy.** User segments, curated PMP deals across 7 SSPs, custom bidding algorithms, predictive contextual, or [meta.md](../readme-2/activation/social/meta.md "mention"). Key activations are moving to direct S3 integrations, cutting middleman syndication wait times.
 * **One pricing tier.** 30% of media, capped at $2.50, or a $1.40 CPM, rather than per-provider pricing that varies segment to segment.
 
 Comparing against the open marketplace? See [LiveRamp data marketplace search](liveramp-data-marketplace.md).

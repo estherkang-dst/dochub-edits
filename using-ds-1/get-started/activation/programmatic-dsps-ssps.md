@@ -103,6 +103,8 @@ The Recent Activity row updates to match: the **Building** badge becomes **Done*
 
 Activate to most major DSPs and SSPs, including The Trade Desk, DV360, Amazon, Yahoo DSP, Comcast, Adelphic, Cadent, Nexxen, Viant, StackAdapt, VideoAmp, Facebook, OpenX, Magnite, PubMatic, Index Exchange, Microsoft Curate, Equativ, and OneTag, plus dozens more through LiveRamp.
 
+Delivering to Facebook or Instagram? Meta needs a one-time setup first. See [meta.md](../../readme-2/activation/social/meta.md "mention").
+
 {% hint style="warning" %}
 Segments appear in your seat on the destination platform's schedule. The Trade Desk, for example, typically takes 24 to 48 hours. Build with enough lead time before launch.
 {% endhint %}

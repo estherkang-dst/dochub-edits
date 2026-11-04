@@ -23,6 +23,8 @@ Choose the audience that fits your campaign. Pricing scales with media spend, up
 | **Custom Patient Targeting**         | 35% of media spend or $2.50 CPM                      |
 | **Custom Patient Targeting for CTV** | 10% of media spend or $2.50 CPM                      |
 
+Audiences delivered to Meta are invoiced by Dstillery, separate from your Meta bill. See [meta.md](../../using-ds-1/readme-2/activation/social/meta.md "mention").
+
 Audiences refresh every 24 hours at no extra cost. Pricing stays the same whether your campaign runs for a week or a quarter.
 
 ### Explore audience types

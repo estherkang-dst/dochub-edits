@@ -9,3 +9,7 @@ Choose the channel where you will activate your audience.
 {% content-ref url="programmatic-dsps-ssps.md" %}
 [programmatic-dsps-ssps.md](programmatic-dsps-ssps.md)
 {% endcontent-ref %}
+
+{% content-ref url="../../readme-2/activation/social/" %}
+[social](../../readme-2/activation/social/)
+{% endcontent-ref %}
