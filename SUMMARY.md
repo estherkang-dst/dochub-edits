@@ -12,7 +12,6 @@
     * [Programmatic (DSPs / SSPs)](using-ds-1/get-started/activation/programmatic-dsps-ssps.md)
     * [Social](using-ds-1/readme-2/activation/social/README.md)
       * [Meta](using-ds-1/readme-2/activation/social/meta.md)
-    * [Social](using-ds-1/readme-2/activation/social-1.md)
 * [Using agents](using-ds-1/agents/README.md)
   * [Build targetable segments from any document](using-ds-1/agents/build-segments-from-any-document.md)
   * [Find Pre-Built Audiences](using-ds-1/agents/find-prebuilt-audiences.md)
