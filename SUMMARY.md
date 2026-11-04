@@ -4,7 +4,7 @@
 
 ## Using DS-1
 
-* [Get started](<README (2).md>)
+* [Getting started](<README (2).md>)
   * [DS-1 overview](using-ds-1/get-started/product-overview.md)
   * [First-time access & sign-in](using-ds-1/get-started/getting-started.md)
   * [Build your first audience](using-ds-1/get-started/create-your-first-audience.md)
