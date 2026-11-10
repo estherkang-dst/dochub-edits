@@ -6,11 +6,23 @@ description: A running log of what is new and improved in DS-1.
 
 ### November 2026
 
+November brings Meta activation and deep research in more agents.
+
 ### New features
 
 #### Activate audiences in Meta
 
 Deliver Dstillery audiences to Facebook and Instagram through LiveRamp. Learn more in [meta.md](readme-2/activation/social/meta.md "mention").
+
+**Social Activation for Meta** Send Dstillery audiences straight to your Meta ad accounts as custom audiences, then track matching and results. Share your ad account with Dstillery as a partner in Meta; there's no Facebook sign-in and nothing to install. Find Social Activation under Agents → Activate, and connect your account by choosing Facebook in the destination dropdown at the top of DS-1.
+
+**Deep research in more agents** Deep research now also works in Build a Search LAL audience, Build a domain seeded audience, and Find prebuilt audiences. Turn it on from the + button in the chat. It checks every suggestion against Dstillery's catalog before recommending it.
+
+### Improvements
+
+**How this works guide from the start** The How this works guide now walks you through an agent's screen before you type anything, adapting to the step you're on.
+
+**Terms of Service notice** The page you see before signing in now links to the DS-1 Terms of Service.
 
 ### October 2026
 
@@ -54,9 +66,7 @@ Audience recommendations, including those based on search keywords, now come fro
 
 This can surface strong audiences you might not have considered.
 
-**Deep research for purchase intent**
-
-Use deep research to identify purchase-intent seeds through web research and review every step. Enable its toggle in [Build a purchase intent audience](agents/build-a-purchase-intent-audience.md) under **Agents → Planning**.
+**Deep research for purchase intent** Use deep research to identify purchase-intent seeds through web research and review every step. Open Build a purchase intent audience under Agents → Planning, then turn on deep research from the + button in the chat.
 
 ### Improvements
 
@@ -114,21 +124,13 @@ Open the **Marketer** dropdown at the top, then select **Create/Delete a markete
 
 Custom URL seed domain suggestions are refreshed, so links no longer lead to irrelevant or missing sites.
 
-**Flexible reach sizes**
+**Flexible reach sizes** You can now view different reach sizes in Audience Portfolio Explorer. Before sending audiences, you can choose a size beyond the standard one.
 
-You can now view different reach sizes in Audience Portfolio Explorer. Before sending audiences, you can choose a size beyond the standard one.
+**A cleaner Home screen** You now have a simpler Home layout and streamlined chat box. Use the plus button to add files, select agents or projects, and search the web.
 
-**A cleaner Home screen**
+**More accurate Insights for unfamiliar sites** When a domain is not in our data, your Insights match by subject. Your audience signals stay on target automatically.
 
-You now have a simpler Home layout and streamlined chat box. Use the plus button to add files, select agents or projects, and search the web.
-
-**More accurate Insights for unfamiliar sites**
-
-When a domain is not in our data, your Insights match by subject. Your audience signals stay on target automatically.
-
-**Requests resume after you pick a marketer**
-
-If you start without a marketer, DS-1 opens the marketer list and resumes after you choose one. You do not need to retype your request.
+**Requests resume after you pick a marketer** If you start without a marketer, DS-1 opens the marketer list and resumes after you choose one. You do not need to retype your request.
 
 ### Fixes
 
@@ -137,6 +139,4 @@ Resolved an issue where audiences appeared stuck in **Building** after the build
 * Planner results load faster. Dstillery prebuilt audiences now appear first while LiveRamp audiences continue loading.
 * Topic refinement in the Insights agent now shows a single, consistent card.
 
-**Pasted term lists**
-
-When you paste term lists in Audience Portfolio Explorer, they split into separate search terms. Press Escape to cancel an entry instead of saving it.
+Pasted term lists in Audience Portfolio Explorer now split into separate search terms, and pressing Escape cancels an entry instead of saving it.
