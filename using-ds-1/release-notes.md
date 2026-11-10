@@ -10,19 +10,23 @@ November brings Meta activation and deep research in more agents.
 
 ### New features
 
-#### Activate audiences in Meta
+**Social Activation for Meta**
 
-Deliver Dstillery audiences to Facebook and Instagram through LiveRamp. Learn more in [meta.md](readme-2/activation/social/meta.md "mention").
+Send Dstillery audiences straight to your Meta ad accounts as custom audiences, then track audience size, match rates, and performance. Available for DS-1 Enterprise customers. To get started, add Dstillery as a partner on your Meta ad account, then open Social Activation from Agents. There’s no Facebook sign-in and nothing to install.
 
-**Social Activation for Meta** Send Dstillery audiences straight to your Meta ad accounts as custom audiences, then track matching and results. Share your ad account with Dstillery as a partner in Meta; there's no Facebook sign-in and nothing to install. Find Social Activation under Agents → Activate, and connect your account by choosing Facebook in the destination dropdown at the top of DS-1.
+**Deep research in more agents**
 
-**Deep research in more agents** Deep research now also works in Build a Search LAL audience, Build a domain seeded audience, and Find prebuilt audiences. Turn it on from the + button in the chat. It checks every suggestion against Dstillery's catalog before recommending it.
+Deep research now also works in Build a Search LAL audience, Build a domain seeded audience, and Find prebuilt audiences. Turn it on from the + button in the chat. It checks every suggestion against Dstillery's catalog before recommending it.
 
 ### Improvements
 
-**How this works guide from the start** The How this works guide now walks you through an agent's screen before you type anything, adapting to the step you're on.
+**How this works guide from the start**
 
-**Terms of Service notice** The page you see before signing in now links to the DS-1 Terms of Service.
+The How this works guide now walks you through an agent's screen before you type anything, adapting to the step you're on.
+
+**Terms of Service notice**
+
+The page you see before signing in now links to the DS-1 Terms of Service.
 
 ### October 2026
 
@@ -124,13 +128,21 @@ Open the **Marketer** dropdown at the top, then select **Create/Delete a markete
 
 Custom URL seed domain suggestions are refreshed, so links no longer lead to irrelevant or missing sites.
 
-**Flexible reach sizes** You can now view different reach sizes in Audience Portfolio Explorer. Before sending audiences, you can choose a size beyond the standard one.
+**Flexible reach sizes**
 
-**A cleaner Home screen** You now have a simpler Home layout and streamlined chat box. Use the plus button to add files, select agents or projects, and search the web.
+Audience Portfolio Explorer now shows different reach sizes. Before you send audiences, DS-1 asks if you want to use a reach size other than the standard one.
 
-**More accurate Insights for unfamiliar sites** When a domain is not in our data, your Insights match by subject. Your audience signals stay on target automatically.
+**A cleaner Home screen**
 
-**Requests resume after you pick a marketer** If you start without a marketer, DS-1 opens the marketer list and resumes after you choose one. You do not need to retype your request.
+You now have a simpler Home layout and streamlined chat box. Use the plus button to add files, select agents or projects, and search the web.
+
+**More accurate Insights for unfamiliar sites**
+
+When a domain isn’t in our data, DS-1 now matches it by subject instead of spelling, so audience signals stay on target. This applies automatically.
+
+**Requests resume after you pick a marketer**
+
+If you start without a marketer, DS-1 opens the marketer list and resumes after you choose one. You do not need to retype your request.
 
 ### Fixes
 
